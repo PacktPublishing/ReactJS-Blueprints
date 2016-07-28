@@ -1,0 +1,41 @@
+{
+  "openstreetmap": {
+    "name": "OpenStreetMap",
+    "protocol": "https",
+    "host": "nominatim.openstreetmap.org",
+    "path": "reverse",
+    "format": "json",
+    "zoom": "18",
+    "addressdetails": "1"
+  },
+  "google": {
+    "name": "google",
+    "providerKey": "",
+    "url": "http://maps.googleapis.com/maps/api/staticmap",
+    "mapType": "roadmap",
+    "pushpin": false,
+    "query": {
+      "markerColor": "color:purple",
+      "markerLabel": "label:A"
+    },
+    "join": "x"
+  },
+  "bing": {
+    "name": "bing",
+    "providerKey": "AnEZmKu-F8dqGGmtYDxjDN6pT-ntknJs9omcsFRrUURtIEqsPt8U05zrqtzD5iB9",
+    "url": "https://dev.virtualearth.net/REST/V1/Imagery/Map/Road/",
+    "query": {},
+    "pushpin": true,
+    "join": ","
+  },
+  "mapQuest": {
+    "name": "mapQuest",
+    "url": "https://www.mapquestapi.com/staticmap/v4/getmap",
+    "providerKey": "utwAUnE51sW43TatV5c3oHqhJW5pVCx4",
+    "mapType": "map",
+    "icon": "red_1-1",
+    "query": {},
+    "pushpin": false
+  }
+}
+

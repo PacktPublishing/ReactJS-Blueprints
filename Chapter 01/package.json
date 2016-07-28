@@ -1,0 +1,41 @@
+{
+  "name": "ReactJS_BluePrints_Scaffold",
+  "version": "1.0.0",
+  "description": "Basic setup for ReactJS Blueprints - chapter 1",
+  "main": "server.js",
+  "directories": {
+    "source": "source"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.12.7",
+    "browserify": "^13.0.1",
+    "browserify-middleware": "^7.0.0",
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "reactify": "^1.1.1",
+    "serve-favicon": "^2.3.0",
+    "uglifyjs": "^2.4.10",
+    "watchify": "^3.6.1"
+  },
+  "dependencies": {
+    "basic-auth": "^1.0.4",
+    "compression": "^1.6.0",
+    "express": "^4.13.3"
+  },
+  "scripts": {
+    "bundle": "./node_modules/.bin/browserify source/app.jsx | ./node_modules/.bin/uglifyjs  -p 5 -c drop_console=true -m --screw-ie8 --max-line-len --inline-script > public/bundle.js",
+    "test": "npm run bundle",
+    "start": "node server.js"
+  },
+  "browserify": {
+    "transform": [
+      "babelify",
+      "reactify"
+    ]
+  },
+  "author": "Sven Anders Robbestad <sven@robbestad.com>",
+  "license": "ISC"
+}

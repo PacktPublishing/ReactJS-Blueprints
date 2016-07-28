@@ -1,0 +1,71 @@
+{
+  "products": {
+    "main_offering": [
+      {
+        "World's best novel": {
+          "SKU": "NOV",
+          "price": "$21.90",
+          "savings": "24% off",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "http://placehold.it/{size}&text=The Novel"
+        }
+      }
+    ],
+    "sale_offerings": [
+      {
+        "Fantasy book": {
+          "SKU": "FAN",
+          "price": "$6.90",
+          "savings": "80% off",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "http://placehold.it/{size}&text=Fantasy"
+        }
+      },
+      {
+        "Mystery book": {
+          "SKU": "MYS",
+          "price": "$8.90",
+          "savings": "34% off",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "http://placehold.it/{size}&text=Mystery"
+        }
+      },
+      {
+        "Adventure book": {
+          "SKU": "ADV",
+          "price": "$7.90",
+          "savings": "62% off",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "http://placehold.it/{size}&text=Adventure"
+        }
+      },
+      {
+        "Science fiction book": {
+          "SKU": "SCI",
+          "price": "$5.90",
+          "savings": "32% off",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "http://placehold.it/{size}&text=Sci-Fi"
+        }
+      },
+      {
+        "Childrens book": {
+          "SKU": "CHI",
+          "price": "$7.90",
+          "savings": "12% off",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "http://placehold.it/{size}&text=Childrens"
+        }
+      },
+      {
+        "Economics book": {
+          "SKU": "ECO",
+          "price": "$25.90",
+          "savings": "7% off",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "image": "http://placehold.it/{size}&text=Economics"
+        }
+      }
+    ]
+  }
+}

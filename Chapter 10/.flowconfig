@@ -1,0 +1,24 @@
+[include]
+./source
+[ignore]
+.*/*.scss*
+.*/node_modules/babel.*
+.*/node_modules/redbox-react.*
+.*/node_modules/babylon.*
+.*/node_modules/invariant.*
+.*/node_modules/fbjs.*
+.*/node_modules/fsevents.*
+.*/node_modules/is-my-json-valid.*
+.*/node_modules/config-chain.*
+.*/node_modules/json5.*
+.*/node_modules/ua-parser-js.*
+.*/node_modules/spdx.*
+.*/node_modules/binary.*
+.*/node_modules/resolve.*
+.*/node_modules/npmconf.*
+.*/node_modules/builtin.*
+.*/node_modules/sha.*
+[options]
+module.name_mapper='.*\(.css\)' -> 'empty/object'
+module.name_mapper='.*\(.scss\)' -> 'empty/object'
+

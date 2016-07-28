@@ -1,0 +1,10 @@
+body{
+  background:#eee;
+  padding:62px 0 0 0;
+}
+.row{
+ padding:0 0 20px 0;
+}
+.summary{
+ border-bottom: 3px double black;
+}

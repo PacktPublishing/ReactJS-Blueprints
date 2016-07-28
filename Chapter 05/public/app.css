@@ -1,0 +1,122 @@
+.static-map{
+  margin: 20px 0 0 0;
+}
+
+/** SPINNER **/
+.spinner {
+  width: 40px;
+  height: 40px;
+
+  position: relative;
+  margin: 100px auto;
+}
+
+.double-bounce1, .double-bounce2 {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #333;
+  opacity: 0.6;
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  -webkit-animation: sk-bounce 2.0s infinite ease-in-out;
+  animation: sk-bounce 2.0s infinite ease-in-out;
+}
+
+.double-bounce2 {
+  -webkit-animation-delay: -1.0s;
+  animation-delay: -1.0s;
+}
+
+@-webkit-keyframes sk-bounce {
+  0%, 100% { -webkit-transform: scale(0.0) }
+  50% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bounce {
+  0%, 100% {
+    transform: scale(0.0);
+    -webkit-transform: scale(0.0);
+  } 50% {
+    transform: scale(1.0);
+    -webkit-transform: scale(1.0);
+  }
+}
+
+
+/** MAPS **/
+
+.map-title {
+  color: #DDD;
+  position: absolute;
+  bottom: 10px;
+  margin: 0;
+  padding: 0;
+  left: 35%;
+  font-size: 18px;
+  text-shadow: 3px 3px 8px rgba(200, 200, 200, 1);
+}
+
+.map-button{
+  height: 100px;
+  margin-bottom: 20px;
+}
+
+.map {
+  position: absolute;
+  left: 15px;
+  right: 0;
+  top: 30px;
+  bottom: 0;
+}
+
+.buttonBack {
+  position: absolute;
+  padding: 10px;
+  width:55px;
+  height:60px;
+  top: -80px;
+  right: 25px;
+  z-index: 10;
+}
+
+.buttonMinus {
+  position: absolute;
+  padding: 10px;
+  width:40px;
+  height:60px;
+  top: 25px;
+  right: 25px;
+}
+
+.buttonPlus {
+  position: absolute;
+  padding: 10px;
+  width:40px;
+  height:60px;
+  top: 100px;
+  right: 25px;
+}
+
+@media screen and (max-width: 600px) {
+  .container {
+    padding: 0;
+    margin: 0
+  }
+  h1{
+    font-size:18px;
+  }
+  .container-fluid{
+    padding: 0;
+    margin: 0 0 0 20px;
+  }
+  .map-title {
+    left: 15%;
+    z-index:10;
+    top: 20px;
+    color: #666;
+  }
+}
+

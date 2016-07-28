@@ -1,0 +1,20 @@
+{
+  "name": "reactjsblueprints-useradmin",
+  "version": "1.0.0",
+  "description": "Useradmin for Chapter 6 ReactJS Blueprints",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "cors": "^2.7.1",
+    "crypto": "0.0.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.0",
+    "passport": "^0.3.2",
+    "passport-http-bearer": "^1.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sven Anders Robbestad <robbestad@gmail.com> (http://svenardo.com)",
+  "license": "ISC"
+}

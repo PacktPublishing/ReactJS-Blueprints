@@ -1,0 +1,598 @@
+{"title": ["Abstract State Machines"], "link": ["http://www.eecs.umich.edu/gasm/"], "desc": ["A formal method for specifying and verifying algorithms.  Tools, meetings, researchers in the area.\r"]}
+{"title": ["ACM SIGACT"], "link": ["http://sigact.acm.org/"], "desc": ["Special Interest Group on Algorithms and Computation Theory, the ACM special interest group for Theoretical Computer Science.  Site has membership information, meetings, reports and a newsletter for members.\r"]}
+{"title": ["Algorithm Design Paradigms"], "link": ["http://www.csc.liv.ac.uk/~ped/teachadmin/algor/algor.html"], "desc": ["A course by Paul Dunne at the University of Liverpool.  Slides and notes in HTML and PS.\r"]}
+{"title": ["Algorithms Archive"], "link": ["http://editor.altervista.org/"], "desc": ["A collection including searching, sorting, tracking, mathematics and cellular automata.  In English and Italian.\r"]}
+{"title": ["Algorithms Courses"], "link": ["http://www.cs.pitt.edu/~kirk/algorithmcourses/"], "desc": ["Links to courses in algorithms maintained at various university computer science departments.\r"]}
+{"title": ["Algorithms in the Real World"], "link": ["http://www.cs.cmu.edu/~guyb/realworld.html"], "desc": ["Notes for a course at Carnegie Mellon University.\r"]}
+{"title": ["Analysis Of Algorithms"], "link": ["http://algo.inria.fr/AofA/"], "desc": ["An initiative of attendees of the 1997 Dagstuhl seminar, these pages provide research papers, a bulletin board, and links to researchers and other resources in the field.  The focus is on average case and probabilistic analysis.\r"]}
+{"title": ["Combinatorial Algorithms"], "link": ["http://www.eli.sdsu.edu/courses/fall95/cs660/"], "desc": ["Course material, syllabus and notes for a course by Roger Whitney at SDSU.\r"]}
+{"title": ["Combinatorial Algorithms"], "link": ["http://www.eli.sdsu.edu/courses/fall95/cs660/notes/"], "desc": ["Lecture notes of a course at San Diego State University.\r"]}
+{"title": ["Computer Programming Algorithms Directory"], "link": ["http://www.algosort.com/"], "desc": ["Resources that describe computer programming algorithms.\r"]}
+{"title": ["Data Structures"], "link": ["http://www3.cs.stonybrook.edu/~skiena/214/lectures/"], "desc": ["Lecture notes by Steven Skiena.\r"]}
+{"title": ["Design and Analysis of Computer Algorithms"], "link": ["http://www.personal.kent.edu/~rmuhamma/Algorithms/algorithm.html"], "desc": ["Lecture notes; applets and code in C, C++, and Java; links regarding books, journals, computability, quantum computing, societies and organizations.\r"]}
+{"title": ["Dictionary of Algorithms, Data Structures, and Problems"], "link": ["http://www.nist.gov/dads/"], "desc": ["A dictionary of algorithms, algorithmic techniques, data structures, and archetypical problems, with related definitions.  Many entries have links to  implementations, tutorials, and  bibliographical references.\r"]}
+{"title": ["On the Road to Algorithms"], "link": ["http://www.hlcmklam.com/"], "desc": ["Information on algorithms such as Bubble Sort and Random Number Generation, using HTML, Java and Perl.  Collected by Lam Ka Chun (Raymond).\r"]}
+{"title": ["Dreamcast @ MobyGames"], "link": ["http://www.mobygames.com/browse/games/dreamcast/"], "desc": ["Database of documentation for video games and companies.\r"]}
+{"title": ["Dreamcast Heaven And Hell"], "link": ["http://www.angelfire.com/games2/dchandh/"], "desc": ["General site featuring screen shots, news, music, and links.\r"]}
+{"title": ["Dreamcast Links"], "link": ["http://www.gamebits.net/dc/"], "desc": ["Offers reviews for the games.\r"]}
+{"title": ["Dreamcast Programming"], "link": ["http://mc.pp.se/dc/"], "desc": ["Hardware, software, and links.\r"]}
+{"title": ["Dreamcast Scene"], "link": ["http://www.dreamcast-scene.com/"], "desc": ["Offers reviews, articles, and information.\r"]}
+{"title": ["Compact Guide to Sorting and Searching"], "link": ["http://www.epaperpress.com/sortsearch/"], "desc": ["Algorithms and data structures. Source code in C and VB is included.  Demonstration applets in Java.\r"]}
+{"title": ["Exact String Matching Algorithms"], "link": ["http://www-igm.univ-mlv.fr/~lecroq/string/"], "desc": ["Common pattern search approaches with C implementations.\r"]}
+{"title": ["Fast Median Search"], "link": ["http://ndevilla.free.fr/median"], "desc": ["Overview of algorithms to find the median in a list of values; implementations and links are also provided.\r"]}
+{"title": ["Fast Multi-Pattern Search"], "link": ["http://webglimpse.net/pubs/TR94-17.pdf"], "desc": ["A fast algorithm for multi-pattern searching by Sun Wu\r"]}
+{"title": ["Fibonacci Search in C"], "link": ["http://www.ics.forth.gr/~lourakis/fibsrch/"], "desc": ["Fibonacci search and C sample code.\r"]}
+{"title": ["FlashSort"], "link": ["http://www.neubert.net/FSOIntro.html"], "desc": ["Sorting by in place permutation with time complexity O(n) using an auxiliary vector.  Papers, animations and implementations.\r"]}
+{"title": ["Fuzzy Search"], "link": ["http://itman.narod.ru/english/ir/index.html"], "desc": ["Approximate search resources on ITman homepage.\r"]}
+{"title": ["GNU libavl"], "link": ["http://www.stanford.edu/~blp/avl/"], "desc": ["Details of this collection of binary search tree and balanced tree library routines by Ben Pfaff.  Etext in HTML/PDF/PS and source distribution.\r"]}
+{"title": ["Grover's Quantum Search Algorithm and Mixed States"], "link": ["http://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-get.cgi/2001/MSC/MSC-2001-01.pdf"], "desc": ["Research thesis done under the supervision of Prof. Eli Biham. \r"]}
+{"title": ["Nearest Neighbors and Similarity Search"], "link": ["http://simsearch.yury.name/"], "desc": ["Slides of tutorial, bibliography, list of related researchers, open problems in similarity search area.\r"]}
+{"title": ["Postman's Sort"], "link": ["http://rrsd.com/"], "desc": ["A linear time general purpose sorting algorithm.  Included is a description of the algorithm and downloadable executables for Windows computers.\r"]}
+{"title": ["Quantum Random Walk Search"], "link": ["http://arxiv.org/PS_cache/quant-ph/pdf/0210/0210064v1.pdf"], "desc": ["Search algorithm based on the quantum random walk architecture that provides a speed-up similar   to other quantum search algorithms.\r"]}
+{"title": ["Robsort GNU implementation"], "link": ["http://www.robsort.org/"], "desc": ["An O(n!) algorithm with downloads for Win98 and Unix platforms.\r"]}
+{"title": ["RumAVL"], "link": ["http://freecode.com/projects/rumavl"], "desc": ["An ANSI C implementation of threaded AVL trees.\r"]}
+{"title": ["Search Algorithm"], "link": ["http://en.wikipedia.org/wiki/Search_algorithm"], "desc": ["From Wikipedia, the free encyclopedia. Classification, summaries of the popular searching algorithms, links.\r"]}
+{"title": ["3D Object Intersection"], "link": ["http://www.realtimerendering.com/intersections.html"], "desc": ["A grid of intersection routines for various popular objects, pointing to resources in books and on the web.\r"]}
+{"title": ["Andrew's Autostereogram Pages"], "link": ["http://www.techmind.org/stereo/stereo.html"], "desc": ["A detailed development of a stereogram-generation algorithm is presented, complete with a ready-to-run Windows program to download and experiment with.\r"]}
+{"title": ["Andrija Radovic\u00b4's Algorithms"], "link": ["http://www.andrijar.com/algorithms/algorithms.htm"], "desc": ["Several unique algorithms for fast and optimal computations with integer numbers and graphics suitable for hardware implementation: dividing, square rooting, line drawing, ellipse drawing, Haiku plot routine.\r"]}
+{"title": ["Caffeine Owl"], "link": ["http://www.caffeineowl.com/"], "desc": ["Introduction to cubic and quadratic Bezier curves.\r"]}
+{"title": ["Chris Bregler's home page"], "link": ["http://www.mrl.nyu.edu/~bregler/"], "desc": ["Research and recent papers on video-based capture of human movements. The main applications are feature animation, video games, and analyzing Movement Disorder\r"]}
+{"title": ["OOPWeb Algorithms Directory"], "link": ["http://www.oopweb.com/Algorithms/Files/Algorithms.html"], "desc": ["Algorithms lecture notes, courses, tutorials, references, guides and online books.\r"]}
+{"title": ["Pattern Matching Pointers"], "link": ["http://www.cs.ucr.edu/~stelo/pattern.html"], "desc": ["A collection of links for and to researchers in the subject.\r"]}
+{"title": ["Priority Queues"], "link": ["http://www.leekillough.com/heaps/"], "desc": ["Electronic bibliography on priority queues (heaps). Links to downloadable reports, researchers' home pages, and software.\r"]}
+{"title": ["Problems in Analysis of Algorithms"], "link": ["http://algo.inria.fr/AofA/Problems/"], "desc": ["A list of open problems with updates and solutions.\r"]}
+{"title": ["Resources for the Analysis of Algorithms"], "link": ["http://math.sun.ac.za/~prodinger/"], "desc": ["Links to papers, conferences and other sites, maintained by Helmut Prodinger.\r"]}
+{"title": ["Softpanorama Algorithms and Data Structures"], "link": ["http://www.softpanorama.org/Algorithms/"], "desc": ["A compilation of links and background information.\r"]}
+{"title": ["Stony Brook Algorithm Repository"], "link": ["http://www3.cs.stonybrook.edu/~algorith/"], "desc": ["This is a collection of implementations for 75 fundamental algorithms problems, including data structures, numerical and combinatorial algorithms, graph algorithms, and computational geometry. Implementations are available in C++, Java, Fortran, and other languages.\r"]}
+{"title": ["Tree Automata Techniques and Applications"], "link": ["http://tata.gforge.inria.fr/"], "desc": ["An evolving web text in PostScript and PDF, with related software.\r"]}
+{"title": ["Web Data Structures and Algorithms"], "link": ["http://cgm.cs.mcgill.ca/~godfried/teaching/algorithms-web.html"], "desc": ["Lecture notes and links for a course by Godfried Toussaint.\r"]}
+{"title": ["1StopPopup's JavaScript Popup Creator"], "link": ["http://1stoppopup.com/"], "desc": ["Makes JavaScript popup window code.\r"]}
+{"title": ["Arun's Javascript Utilities"], "link": ["http://jsutils.sourceforge.net/"], "desc": ["Collection of ready-to-use Javascripts, features a flexible Javascript PopUp Calendar, PopCal.\r"]}
+{"title": ["Bretteleben.de"], "link": ["http://www.bretteleben.de/"], "desc": ["A small collection of free javascripts, created by the website-owner, mostly about image-presentation and image-manipulation, presented in german and english. The scripts are crossbrowser, one or two of them (one more way, rotating globe) unique at this time.\r"]}
+{"title": ["Canvas Clocks"], "link": ["http://perisic.com/canvasclock/"], "desc": ["Provides a clock using the WHATWG <canvas> element.\r"]}
+{"title": ["Dreamcast Talk"], "link": ["http://dreamcast-talk.com/"], "desc": ["Offers news, information, forum, and reviews.\r"]}
+{"title": ["How Stuff Works: Sega Dreamcast"], "link": ["http://www.howstuffworks.com/dreamcast.htm"], "desc": ["Illustrated tutorial about how the Sega Dreamcast video game console works, with information about how to compare and where to buy.\r"]}
+{"title": ["idsoftware forever on Dreamcast"], "link": ["http://dcquake.sourceforge.net/"], "desc": ["Porting Quake, Quake II, and Hexen II to the console.\r"]}
+{"title": ["Planet Ring Myths and Legends"], "link": ["http://www.jumpstation.co.uk/dreamcast/planetringmal.html"], "desc": ["A short look at the Planet Ring online software.\r"]}
+{"title": ["AutoIt"], "link": ["https://www.autoitscript.com/"], "desc": ["For AutoIt, a open-source basic-like script language for automatisation in windows, there are downloads, Wiki, FAQ and Forum.\r"]}
+{"title": ["Interclasse"], "link": ["http://www.interclasse.com/"], "desc": ["Articles and examples. WSH, VBS, HTA and Python scripts.\r"]}
+{"title": ["Luban"], "link": ["http://www.lubankit.org/"], "desc": ["The component oriented simple scripting language with a robust component composition model.\r"]}
+{"title": ["mCL"], "link": ["http://www.neatware.com/lbstudio/web/mcl/"], "desc": ["A language for media control. A shader to generate cinematic effects can be constructed by using mCL and HLSL in DirectX9.\r"]}
+{"title": ["MetaCollection"], "link": ["http://www.metacollection.com/"], "desc": ["A guide for webmasters and developers who are in search of CGI, Perl, or PHP script archives.\r"]}
+{"title": ["Nuclear Vision"], "link": ["http://www.shininglightpro.com/products/nvml.html"], "desc": ["An HTML-style scripting language designed to be run on a web server but can also be run from the command line. By Shining Light Productions.\r"]}
+{"title": ["OnScript"], "link": ["http://www.onscript.com/"], "desc": ["XLnow OnScript is a Windows scripting tool for writing, maintaining and running scripts. Download option, support and company information.\r"]}
+{"title": ["Searching Algorithms"], "link": ["http://www.softpanorama.org/Algorithms/searching.shtml"], "desc": ["Overview of many sorting techniques and corresponding links.\r"]}
+{"title": ["Sequential and Parallel Sorting Algorithms"], "link": ["http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm"], "desc": ["Description of sorting algorithms with examples\r"]}
+{"title": ["Sequitur"], "link": ["http://sequitur.info/"], "desc": ["A method for inferring compositional hierarchies from strings, useful for recognizing lexical structure in long sequences. Examples, source code, description, publications, and an on-line demonstration.\r"]}
+{"title": ["Sorting Algorithm"], "link": ["http://en.wikipedia.org/wiki/Sorting_algorithm"], "desc": ["From Wikipedia, the free encyclopedia. Classification,  summaries of the popular sorting algorithms, links.\r"]}
+{"title": ["Sorting Algorithm Visualization Poster"], "link": ["http://www.benjamin-erb.de/visual/sorting_algorithms/sort_poster_a1.pdf"], "desc": ["A poster visualizing and comparing 12 famous sorting algorithms showing their distinctive features.\r"]}
+{"title": ["Sorting Algorithms"], "link": ["http://www.softpanorama.org/Algorithms/sorting.shtml"], "desc": ["Overview of many sorting techniques and corresponding links.\r"]}
+{"title": ["Sorting Algorithms Visualized"], "link": ["http://arnosoftwaredev.blogspot.com/2005/01/sorting-algorithms-visualized.html"], "desc": ["Applet visualizing various sorting algorithms, English version of Peter Weigel and Andreas Boltzmann applet.\r"]}
+{"title": ["Sorting and Searching Algorithms By Thomas Niemann."], "link": ["http://epaperpress.com/sortsearch/download/sortsearch.pdf"], "desc": ["Collection of algorithms for sorting and searching from arrays to B-Trees - theory, examples, implementation.\r"]}
+{"title": ["String Searching With Suffix Trees"], "link": ["http://marknelson.us/1996/08/01/suffix-trees/"], "desc": ["Fast String Searching With Suffix Trees by Mark Nelson\r"]}
+{"title": ["comp.graphics.algorithms Frequently Asked Questions"], "link": ["http://www.faqs.org/faqs/graphics/algorithms-faq/"], "desc": ["Basic computations frequently needed in graphics.\r"]}
+{"title": ["Fast Line Drawing Algorithms by Po-Han Lin"], "link": ["http://www.edepot.com/algorithm.html"], "desc": ["Contains sources for graphical algorithms to draw lines.  Included are the  popular Bresenham algorithm, the Wu's Symmetric Double-Step, and the fastest non-cpu dependent algorithm, the Extremely Fast Line Algorithm (EFLA).\r"]}
+{"title": ["Graphics Gems Repository"], "link": ["http://tog.acm.org/resources/GraphicsGems/"], "desc": ["The official site for source code, errata, and addenda to the Graphics Gems book series.\r"]}
+{"title": ["Hardware Perlin Noise Demonstration"], "link": ["http://dunnbypaul.net/perlin/"], "desc": ["Article by Paul R. Dunn. Describes a fast way to generate perlin noise by using 3D texture blending hardware.\r"]}
+{"title": ["Hinjnag.com"], "link": ["http://hinjang.com/"], "desc": ["Several articles on real-time graphics rendering.\r"]}
+{"title": ["Hugues Hoppe's Homepage"], "link": ["http://research.microsoft.com/~hoppe/"], "desc": ["A collection of research graphics articles.\r"]}
+{"title": ["Inferno Project"], "link": ["http://inferno.hildebrand.cz/"], "desc": ["The research of Ray Tracing accelerated by modern Graphics Hardware (GPU).\r"]}
+{"title": ["An Interactive Introduction to Splines"], "link": ["http://www.ibiblio.org/e-notes/Splines/Intro.htm"], "desc": ["Bezier, B-spline, NURBS, and many other spline curves and surfaces with interactive 2D Java applets and VRML.\r"]}
+{"title": ["M Spline"], "link": ["http://www.resampling.narod.ru/"], "desc": ["A new linear best quality and fast algorithm of raster image scaling.\r"]}
+{"title": ["Map Projection"], "link": ["http://mathworld.wolfram.com/MapProjection.html"], "desc": ["Very basic grey page with some useful links on map projection.\r"]}
+{"title": ["Cerny"], "link": ["http://www.cerny-online.com/cerny.js/"], "desc": ["Offers solutions for type checking, schema validation and dependency management.\r"]}
+{"title": ["CKeditor"], "link": ["http://ckeditor.com/"], "desc": ["Web-based HTML text editor with powerful formatting capabilities. Requires no installation on the client computer.\r"]}
+{"title": ["ColorPop"], "link": ["http://www.iconico.com/colorPop/"], "desc": ["A pop-up color picker control for use on web pages.\r"]}
+{"title": ["Custom Form Elements with Javascript"], "link": ["http://customformelements.net/"], "desc": ["An open source library to enhance web-based XHTML forms in terms of style, usability and accessibility by using Javascript and CSS. It is based on various Javascript frameworks. Features, demo, download, how-tos, and inside information on the development team are presented,\r"]}
+{"title": ["DHTML Cross-Browser JavaScripts"], "link": ["http://vbarsan.com/"], "desc": ["Vertical, horizontal and typewriter scrollers, and a collection of free Javascripts. Multi-OS and multi-browser compatible.\r"]}
+{"title": ["Editable JavaScript TreeGrid"], "link": ["http://www.coqsoft.com/"], "desc": ["DHTML component written in pure JavaScript to display and edit data in table, grid, tree or grid with tree. Compatible with the most of standard browsers. ASP.NET support code available. [Commercial]\r"]}
+{"title": ["Email AntiLeech"], "link": ["http://www.artatoo.com/scripts/email_antileech.shtml"], "desc": ["Prevents all software to grab email addresses from site.\r"]}
+{"title": ["ESPX  and TinyXSL"], "link": ["http://www.cjandia.com/2001/espx-tinyxsl/"], "desc": ["ESPX, an ECMAScript Parser for (almost) XML, with namespaces; and TinyXSL, XML transform in-Script mini-Language\r"]}
+{"title": ["Flowplayer"], "link": ["https://flowplayer.org/"], "desc": ["Minimalistic, yet full-featured HTML5/Flash video player.\r"]}
+{"title": ["Focus on JavaScript"], "link": ["http://javascript.about.com/"], "desc": ["A bulk of scripts and other JavaScript resources.\r"]}
+{"title": ["Google: Closure"], "link": ["https://developers.google.com/closure/"], "desc": ["Create powerful and efficient JavaScript.\r"]}
+{"title": ["Opscript"], "link": ["http://opascalscript.sourceforge.net/"], "desc": ["An Active Scripting Engine based on Object Pascal. It can be hosted by Active Hosts such as IIS or the Windows Scripting Host. [Open source, Common Public License]\r"]}
+{"title": ["ScriptDungeon"], "link": ["http://www.scriptdungeon.com/"], "desc": ["Directory of free scripts and tools for ASP, PHP, JavaScript.\r"]}
+{"title": ["Scripting Language"], "link": ["http://en.wikipedia.org/wiki/Scripting_language"], "desc": ["Growing article, with links to many related topics. [Wikipedia]\r"]}
+{"title": ["Scripts for Developers and Programmers"], "link": ["http://www.scripts.com/"], "desc": ["Directory of free and paid scripts across all types of platforms. Fully searchable.\r"]}
+{"title": ["Scriptygoddess"], "link": ["http://www.scriptygoddess.com/"], "desc": ["A weblog for people who don't know everything about scripts and stuff to learn from each other. ASP, PHP and Javascript related articles. CSS tricks.\r"]}
+{"title": ["SWIG (Simplified Wrapper and Interface Generator)"], "link": ["http://www.swig.org/"], "desc": ["A tool that easily allows a developer to wrap C/C++ functions for use with scripting languages. Currently supports Python, Perl, and Tcl.\r"]}
+{"title": ["Suggest Trees"], "link": ["http://suggesttree.sourceforge.net/"], "desc": ["A data structure for rank-ordered autocomplete suggestions that supports fast lookup of the top k suggestions with a given prefix.\r"]}
+{"title": ["Ternary Search Trees"], "link": ["http://www.cs.princeton.edu/~rs/strings/"], "desc": ["Fast Algorithms for Sorting and Searching Strings - The original paper and examples by Jon Bentley and Robert Sedgewick.\r"]}
+{"title": ["Three Dimensional Bubble Sort"], "link": ["http://www.tropicalcoder.com/3dBubbleSort.htm"], "desc": ["A specification of a new 'bubble sort' in three or more dimensions, with illustrative images.\r"]}
+{"title": ["Understanding SoundEx Algorithms"], "link": ["http://www.creativyst.com/Doc/Articles/SoundEx1/SoundEx1.htm"], "desc": ["Article describing and discussing the SoundEx searching algorithm and enhancements to make it more accurate.  Includes SoundEx conversion form and Open licensed source code in C, JavaScript, and Perl.\r"]}
+{"title": ["WASA"], "link": ["http://wasa.sourceforge.net/"], "desc": ["A Java implementation of the Wealthy Adaptative Search Algorithm, a constraint-solving algorithm using a stochastic approach.\r"]}
+{"title": ["Wikipedia: String Searching Algorithm"], "link": ["http://en.wikipedia.org/wiki/String_searching_algorithm"], "desc": ["Definition, classification, common algorithms, links.\r"]}
+{"title": ["Map Projection Overview"], "link": ["http://www.colorado.edu/geography/gcraft/notes/mapproj/mapproj_f.html"], "desc": ["Everything you always wanted to know about map projections, and then some.\r"]}
+{"title": ["Modeling Sprite Animation Using Finite State Automata"], "link": ["http://www.fastgraph.com/fsm.html"], "desc": ["Article by Diana Gruber on how to model sprite animation in a computer game.\r"]}
+{"title": ["PseudoGrey"], "link": ["http://r0k.us/graphics/pseudoGrey.html"], "desc": ["Algorithm allows accurate encoding and decoding of 1786 levels of grey within a 24-bit image; text overview, sample images, and a Java test program can be found at this site.\r"]}
+{"title": ["Publications by Loic Barthe"], "link": ["http://www.irit.fr/~Loic.Barthe/"], "desc": ["Comprehensive list of publications by L. Barthe on modelling from sketching, point based modelling, subdivision surfaces and implicit modelling.\r"]}
+{"title": ["HIOX Free Javascript Scripts"], "link": ["http://hscripts.com/scripts/JavaScript/"], "desc": ["Free Javascript scripts includes stop watch, timer, domain and email validation script, date functions, alphanumeric validation function.\r"]}
+{"title": ["HTML2XHTML Converter (H2X)"], "link": ["http://html2xhtml.richarea.com/"], "desc": ["Generates a well-formed XHTML string from an HTML DOM object. H2X could be used in Content Management Systems (CMS), online wysiwyg HTML editors or any other javascript application to produce well formed XHTML 1.0 code.\r"]}
+{"title": ["I Like Computer"], "link": ["http://www.ilikecomputer.com/javascript.php"], "desc": ["Scripts for form validation, browser detection, cookies, images swaping. Also calculator and slider game.\r"]}
+{"title": ["I-Announce"], "link": ["http://www.i-announce.net/"], "desc": ["Add javascript Popups Announcements to website. Popup content can be easily changed by the website owner - from the Popup itself. Requires registration (Free) and easy install code.\r"]}
+{"title": ["JavaScript Diagram Builder"], "link": ["http://www.lutanho.net/diagram/"], "desc": ["Library of objects and functions, to display and dynamically modify coordinate diagrams and charts in webpages. [Freeware]\r"]}
+{"title": ["JavaScript Scrambler"], "link": ["http://www.tero.co.uk/scripts/scrambler.php"], "desc": ["Script for converting JavaScripts into difficult to read code.\r"]}
+{"title": ["JavaScript Shell"], "link": ["http://www.squarefree.com/shell/"], "desc": ["A read-eval-print loop for JavaScript that works in IE, Mozilla, and Opera.  Includes a Mozilla bookmarklet to run shell commands in the context of any web page.\r"]}
+{"title": ["JavaScript Spin Control"], "link": ["http://www.ycode.com/Spin/Latest/Spin.htm"], "desc": ["Like a regular Windows Spin control, but is implemented entirely in JavaScript. [Commercial]\r"]}
+{"title": ["Javascripting"], "link": ["http://www.javascripting.com/"], "desc": ["A collection of client-side libraries.\r"]}
+{"title": ["JSCart Shopping Cart"], "link": ["http://www.cnctek.com/JSCart/"], "desc": ["Javascript shopping cart capable to support thousands of products through a powerful database manager. [Commercial]\r"]}
+{"title": ["JSMIN, The JavaScript Minifier"], "link": ["http://www.crockford.com/javascript/jsmin.html"], "desc": ["Provides a script to remove comments and unnecessary whitespaces from JavaScript files.\r"]}
+{"title": ["JSviewer"], "link": ["http://www.jsviewer.com/"], "desc": ["A configurable dynamic HTML image and slide show viewer written in JavaScript. Supports displaying images, web pages and text. Supports keyboard controls and multiple languages.\r"]}
+{"title": ["Magic Toolbox"], "link": ["http://www.magictoolbox.com/"], "desc": ["Provides an image zoom script in two different versions. [Commercial]\r"]}
+{"title": ["Modernizr"], "link": ["http://modernizr.com/"], "desc": ["A JavaScript toolkit that allows web developers to use new CSS3 and HTML5 features while maintaining a fine level of control over browsers that don't support them yet.\r"]}
+{"title": ["WinBatch"], "link": ["http://www.winbatch.com/"], "desc": ["Features a macro scripting language that provides batch automation for Windows systems.\r"]}
+{"title": ["Winductor"], "link": ["http://www.desisoft.com/Windctor/"], "desc": ["Windows scripting language: provides automation abilities via simulated input and/or COM, template expansion (useful for layout/content separation for HTML generation), built-in functions for FTP, HTTP, Email, Multimedia, CGI.\r"]}
+{"title": ["Z-Script"], "link": ["http://www.zegraph.com/z-script/index.html"], "desc": ["A small embeddable scripting language with C-like syntax. Primitive functions can be easily added to be called by script, to call script functions, and to define operator behaviors for user objects.\r"]}
+{"title": ["Specialty Scripting Languages"], "link": ["http://www.itworld.com/swol-1103-regex"], "desc": ["BeanShell, NQL, Simkin, and Slate fill specific needs. We often argue that scripting languages should complement developers' reliance on Java. What about Java itself for scripting? [ITworld.com]\r"]}
+{"title": ["Ray Tracing News"], "link": ["http://tog.acm.org/resources/RTNews/html/"], "desc": ["An infrequent newsletter on ray tracing and general computer-graphics research and resources.\r"]}
+{"title": ["Real-time Optimally Adapting Meshes (ROAM)"], "link": ["https://graphics.llnl.gov/ROAM/"], "desc": ["A paper describing a method for continuously maintaining view-dependent triangular meshes to achieve desired frame rates.\r"]}
+{"title": ["Shadow Generation Algorithms"], "link": ["http://www.cs.cmu.edu/~ph/shadow.html"], "desc": ["This page gives a link to a (compressed postscript) paper on a shadow generation algorithm.\r"]}
+{"title": ["Stylized Depiction"], "link": ["http://www.red3d.com/cwr/npr/"], "desc": ["Survey of non-photorealistic rendering (NPR) for computer graphics and animation: painterly rendering, toon shading, painterly image processing, and simulation of traditional artistic media.\r"]}
+{"title": ["nude.js"], "link": ["http://www.patrick-wied.at/static/nudejs/"], "desc": ["Nudity scanner with HTMLCanvas based on research papers.\r"]}
+{"title": ["PopCalendarXP And FlatCalendarXP"], "link": ["http://www.calendarxp.net/"], "desc": ["The javascript calendar with themes support. [Freeware and Commercial]\r"]}
+{"title": ["Prototip"], "link": ["http://www.nickstakenburg.com/projects/prototip/"], "desc": ["Allows to create simple and complex tooltips with the Prototype framework and to emphasize them with Script.aculo.us.\r"]}
+{"title": ["qForms"], "link": ["http://www.pengoworks.com/index.cfm?action=qForms"], "desc": ["JavaScript API for interfacing forms. [Open source, GPL]\r"]}
+{"title": ["Regular Expression Tester"], "link": ["http://www.roblocher.com/technotes/regexp.html"], "desc": ["Uses browser's JavaScript to show matches and subgroups, and highlights match in the input string.\r"]}
+{"title": ["Search Maker Pro"], "link": ["http://www.searchmakerpro.com/"], "desc": ["Allows to create a web page that includes a search engine.  The code can be placed on the website to enable a site search.\r"]}
+{"title": ["Sorttable"], "link": ["http://kryogenix.org/code/browser/sorttable/"], "desc": ["Make tables sortable.\r"]}
+{"title": ["Tigra Color Picker"], "link": ["http://www.softcomplex.com/products/tigra_color_picker/"], "desc": ["Makes easy for visitors to fill out color value field(s) by selecting the color from a popup palette. [Freeware]\r"]}
+{"title": ["Tigra Form Validator"], "link": ["http://www.softcomplex.com/products/tigra_form_validator/"], "desc": ["A free JavaScript component performing client side form validation.\r"]}
+{"title": ["Tigra Form Validator PRO"], "link": ["http://www.softcomplex.com/products/tigra_form_validator_pro/"], "desc": ["A JavaScript component performing client-side form validation.\r"]}
+{"title": ["Tigra Hints"], "link": ["http://www.softcomplex.com/products/tigra_hints/"], "desc": ["Displays pop-up box with notes (also known as tooltips or hints) when mouse appears over any HTML element on the page. [Freeware]\r"]}
+{"title": ["Coinop.org"], "link": ["http://coinop.org/"], "desc": ["Database of coin-operated arcade games. \r"]}
+{"title": ["50th State"], "link": ["http://gamegod.com/"], "desc": ["Distributor of active video arcade machines.  Small selection of used equipment for sale.\r"]}
+{"title": ["Ads from the past"], "link": ["http://www.basementarcade.com/arcade/ads/ads.html"], "desc": ["A collection of pictures of advertising flyers for old arcade games such as Zaxxon, Frogger and Centipede.\r"]}
+{"title": ["AGH Museum"], "link": ["http://www.atarihq.com/museum/coinops/index.html"], "desc": ["Atari coin-op museum. Contains ads, data sheets, and cabinet pictures.\r"]}
+{"title": ["Arcade Belgium"], "link": ["http://www.arcadebelgium.be/"], "desc": ["Information on arcade games in Belgium. Features news, a location list with search engine, articles and a marketplace.\r"]}
+{"title": ["The Arcade Flyer Archive"], "link": ["http://www.arcadeflyers.com/"], "desc": ["An archive for classic arcade and videogame flyers.\r"]}
+{"title": ["Arcade Game Annex"], "link": ["http://www.larwe.com/coinop/index.html"], "desc": ["Screenshots, music, switch settings, pinouts, and repair information.\r"]}
+{"title": ["University of Florida Surflab"], "link": ["http://www.cise.ufl.edu/research/SurfLab/"], "desc": ["Research in geometric modeling and its application to areas such as Rapid design of complex geometry, 3D Graphics, Scientific Visualization\r"]}
+{"title": ["VDSlib: A View-Dependent Simplification Package"], "link": ["http://vdslib.virginia.edu/"], "desc": ["Public domain package for view-dependent simplification and rendering of polygonal environments.\r"]}
+{"title": ["Xvox demo"], "link": ["http://users.belgacom.net/gc610902/"], "desc": ["Trilinear displacement mapping and depth addaptive tessellation with DX8. Terrain rendering example provided\r"]}
+{"title": ["Texture Mapping as a Fundamental Drawing Primitive"], "link": ["http://www.graficaobscura.com/texmap/"], "desc": ["Article by Paul Haeberli and Mark Segal. Survey of applications of texture mapping including simple texture mapping, projective textures, and image warping; description of texture mapping techniques for drawing anti-aliased lines, air-brushes, and anti-aliased text; and show of how texture mapping may be used as a fundamental graphics primitive for volume rendering, environment mapping, color interpolation, and contouring.\r"]}
+{"title": ["Tigra Scroller"], "link": ["http://www.softcomplex.com/products/tigra_scroller/"], "desc": ["Scrolls text or html in the box. [Freeware]\r"]}
+{"title": ["Tipue"], "link": ["http://www.tipue.com/"], "desc": ["A JavaScript site search engine. It works with any browser that supports JavaScript 1.3 and at least partially supports the W3C DOM Level 1. [Open source, GPL]\r"]}
+{"title": ["VietIMEW"], "link": ["http://www.milresh.com/duc/old/vime/"], "desc": ["Provides an input method editor to convert chars from Latin alphabet to Vietnamese.\r"]}
+{"title": ["Xmenu-xlayer"], "link": ["http://xmenu-xlayer.sourceforge.net/"], "desc": ["A versatile, Javascript driven DHTML menu that works on most popular browsers. It comes in 3 basic modes: vertical, horizontal or collapsing and folds/unfolds on clicks or mouseovers. [Open source, LGPL]\r"]}
+{"title": ["XSLT JS"], "link": ["http://johannburkard.de/software/xsltjs/"], "desc": ["Tiny library for client-side (browser) transformations of XML with XSLT.\r"]}
+{"title": ["yCode"], "link": ["http://www.ycode.com/"], "desc": ["Proposes JavaScript/DHTML controls to extend existing HTML control set including ComboBox, SpreadSheet, Spin, Scrambler. [Commercial]\r"]}
+{"title": ["Arcade Games Database"], "link": ["http://www.games-db.com/Arcade/"], "desc": ["Database covering coin-op video games, includes screenshots and artwork, and hardware specifications.\r"]}
+{"title": ["Arcade-History"], "link": ["http://www.arcade-history.com/"], "desc": ["A coin-operated machine database featuring more than 25,000 machines with pictures and information.\r"]}
+{"title": ["Atari System 1 Page"], "link": ["http://members.tripod.com/~AWalden/"], "desc": ["About the System 1 used in games such as Marble Madness, Roadblasters and Road Runner.\r"]}
+{"title": ["The Basement Arcade"], "link": ["http://freespace.virgin.net/james.handlon/index.htm"], "desc": ["Contains reviews, sounds, history, and articles.\r"]}
+{"title": ["Classic Video Games Nexus"], "link": ["http://home.hiwaay.net/~lkseitz/cvg/nexus/"], "desc": ["A nearly complete and organized list of links related to classic video games (Atari 2600, and Pac-Man).\r"]}
+{"title": ["Coin King Electronics"], "link": ["http://thinkthin.myweb.hinet.net/coinking/htm/kenglish.htm"], "desc": ["Manufacturer of arcade game machines, supplies and other related electronic equipment. Based in Taiwan.\r"]}
+{"title": ["Elite Arcades"], "link": ["http://www.elite-arcades.com/"], "desc": ["Offers arcade games in cocktail cabinets and upright cabinets.\r"]}
+{"title": ["FPGA Arcade"], "link": ["http://fpgaarcade.com/"], "desc": ["Information about recreating gaming hardware from the past in modern programmable devices, known as FPGAs.\r"]}
+{"title": ["High Scores Arcade"], "link": ["http://highscoresarcade.com/"], "desc": ["A classic '80s arcade located in the East Bay Area of California.\r"]}
+{"title": ["IREM"], "link": ["http://www.irem.co.jp/e/index.html"], "desc": ["Makers of R-Type.\r"]}
+{"title": ["ITS Canada"], "link": ["http://www.itsgamescanada.com/"], "desc": ["Canadian home of ITS - the makers of Golden Tee Golf.\r"]}
+{"title": ["JROK's Web Pages"], "link": ["http://www.jrok.com/"], "desc": ["Arcade game web pages, free games, emulators and schematics.\r"]}
+{"title": ["JSP Customer Service Center"], "link": ["http://www.jspusa.com/"], "desc": ["Computer and electronic products, computer services and digital software to dealers, service centers and consumers world wide since 1988.\r"]}
+{"title": ["Killer List Of Videogames (KLOV)"], "link": ["http://www.arcade-museum.com/"], "desc": ["A searchable encyclopedia of coin-operated video games containing technical information, descriptions, cabinet pictures and screen shots.\r"]}
+{"title": ["National Coin-Op and Video Game Museum"], "link": ["http://coinop.org/features/coinopmuseum/"], "desc": ["A detailed article and tour of this lost treasure.\r"]}
+{"title": ["PCBdB*"], "link": ["http://pcbdb.net/"], "desc": ["Database of connections, batteries, and DIP switch settings for Arcade PCBs.\r"]}
+{"title": ["Post-Age Collectibles"], "link": ["http://www.post-age-collectibles.com/"], "desc": ["Variety of collectibles from records to books to pinball parts.\r"]}
+{"title": ["Retrocactus.com"], "link": ["http://www.retrocactus.com/"], "desc": ["Classic videogame nostalgia.\r"]}
+{"title": ["Sounds from the arcade"], "link": ["http://www.basementarcade.com/arcade/sounds/sounds.html"], "desc": ["For anyone who needs to hear more of the classic arcade machines from the 80's. Includes sounds from Crazy Climber, Ms. Pac Man, Wizard of War, Crystal Castles, Donkey Kong, Gauntlet and Toobin.\r"]}
+{"title": ["Tony's Video Arcade Classics Page"], "link": ["http://www.homearcade.org/"], "desc": ["Includes among other things a game photo album.\r"]}
+{"title": ["Video Game [R]evolution, The"], "link": ["http://www.acm.org/crossroads/xrds3-2/vgmusnew.html"], "desc": ["Review of the Video Game Museum in St. Louis;  in ACM Crossroads, the student magazine of the  Association for Computing Machinery.\r"]}
+{"title": ["Williams Documentation"], "link": ["http://www.robotron-2084.co.uk/"], "desc": ["Information on Williams arcade machines. Offers manuals and news.\r"]}
+{"title": ["JavaScript"], "link": ["https://developer.mozilla.org/en-US/docs/Web/JavaScript"], "desc": ["Documentation, reference, guides, examples and tutorials about JavaScript.\r"]}
+{"title": ["#grid"], "link": ["http://hashgrid.com/"], "desc": ["Inserts a layout grid in web pages, allows to hold it in place, and toggle between displaying it in the foreground or background.\r"]}
+{"title": ["amark/theory"], "link": ["https://github.com/amark/theory"], "desc": ["Abstraction layer for cross platform JavaScript.\r"]}
+{"title": ["Analytics.js"], "link": ["https://segment.com/docs/libraries/analytics.js/"], "desc": ["Integrate analytics into any web application.\r"]}
+{"title": ["antoniogarrote/rdfstore-js"], "link": ["https://github.com/antoniogarrote/rdfstore-js"], "desc": ["RDF store with SPARQL support.\r"]}
+{"title": ["appendTo Labs"], "link": ["https://github.com/a2labs"], "desc": ["Variety of open source repositories.\r"]}
+{"title": ["appendTo()"], "link": ["http://appendto.com/"], "desc": ["JavaScript, HTML5, responsive web design, mobile consulting and development for the enterprise.\r"]}
+{"title": ["Arbor.js"], "link": ["http://arborjs.org/"], "desc": ["A graph visualization library using web workers and jQuery.\r"]}
+{"title": ["AutoSuggest"], "link": ["http://www.brandspankingnew.net/archive/2006/08/ajax_auto-suggest_auto-complete.html"], "desc": ["An AJAX auto-complete text field.\r"]}
+{"title": ["awayken/BabyLoader"], "link": ["https://github.com/awayken/baby-loader"], "desc": ["Displays a progress bar for your fetus.\r"]}
+{"title": ["Backgrid.js"], "link": ["http://backgridjs.com/"], "desc": ["A set of components for building semantic and easily stylable data grid widgets.\r"]}
+{"title": ["Badass JavaScript"], "link": ["http://badassjs.com/"], "desc": ["A showcase of JavaScript pushing the boundaries of what's possible on the web, by @devongovett.\r"]}
+{"title": ["bard/mozrepl"], "link": ["https://github.com/bard/mozrepl"], "desc": ["MozRepl let program Firefox and other Mozilla-based applications from the inside.\r"]}
+{"title": ["basket.js"], "link": ["http://addyosmani.github.io/basket.js/"], "desc": ["A simple (proof of concept) script loader that caches scripts with localStorage.\r"]}
+{"title": ["Boilerplate.js"], "link": ["http://boilerplatejs.org/"], "desc": ["Reference architecture for large scale JavaScript development. Collection of product engineering patterns and some solid integrations of industry leading JavaScript libraries.\r"]}
+{"title": ["Bootstrap"], "link": ["http://getbootstrap.com/"], "desc": ["Intuitive and powerful mobile first front end framework for faster and easier web development.\r"]}
+{"title": ["C3.js"], "link": ["http://c3js.org/"], "desc": ["D3 based reusable chart library.\r"]}
+{"title": ["Candy"], "link": ["http://candy-chat.github.io/candy/"], "desc": ["A JavaScript based multi user chat client.\r"]}
+{"title": ["CanJS"], "link": ["http://canjs.com/"], "desc": ["JavaScript library that makes developing complex applications simple and fast.\r"]}
+{"title": ["Canvas 3D Graph"], "link": ["http://dragan.yourtree.org/code/canvas-3d-graph/"], "desc": ["Special type of bar graph that plot numbers in 3D.\r"]}
+{"title": ["caolan/async.js"], "link": ["https://github.com/caolan/async"], "desc": ["Utility module which provides straight forward, powerful functions for working with asynchronous JavaScript. Although originally designed for use with Node.js, it can also be used directly in the browser.\r"]}
+{"title": ["carhartl/jquery"], "link": ["https://github.com/carhartl/jquery-cookie"], "desc": ["A simple, lightweight jQuery plugin for reading, writing and deleting cookies.\r"]}
+{"title": ["classifier"], "link": ["https://github.com/harthur/classifier"], "desc": ["A Bayesian classifier with backends for Redis and localStorage.\r"]}
+{"title": ["Cocos2d-x"], "link": ["http://www.cocos2d-x.org/"], "desc": ["Cross platform open source free 2D game engine for mobile gamedev, that is fast and stable, easy to learn and use.\r"]}
+{"title": ["Conditioner.js"], "link": ["http://conditionerjs.com/"], "desc": ["A javascript library for loading and unloading behavior based on environment conditions.\r"]}
+{"title": ["Constellation/escodegen"], "link": ["https://github.com/Constellation/escodegen"], "desc": ["ECMAScript code generator from Parser API.\r"]}
+{"title": ["ConvNetJS"], "link": ["http://cs.stanford.edu/people/karpathy/convnetjs/"], "desc": ["JavaScript library for training Deep Learning models. Supports classification of data into fixed number of categories, regression into real-valued outputs, formulating Convolutional Neural Networks, Reinforcement Learning module based on Deep Q Learning.\r"]}
+{"title": ["CoreChain"], "link": ["http://www.corechain.com/"], "desc": ["JavaScript library for displaying graphs.\r"]}
+{"title": ["Crafty.js"], "link": ["http://craftyjs.com/"], "desc": ["JavaScript Game Engine.\r"]}
+{"title": ["CreateJS"], "link": ["http://www.createjs.com/"], "desc": ["A suite of JavaScript libraries and tools for building rich, interactive experiences with HTML5.\r"]}
+{"title": ["Crossfilter"], "link": ["http://square.github.io/crossfilter/"], "desc": ["Fast multidimensional filtering for coordinated views.\r"]}
+{"title": ["CSS & jQuery Clickable Map"], "link": ["http://winstonwolf.pl/clickable-maps/"], "desc": ["Free interactive map of forty-seven countries of the European continent, by Winston Wolf.\r"]}
+{"title": ["Cubism.js"], "link": ["http://square.github.io/cubism/"], "desc": ["D3 plugin for visualizing time series.\r"]}
+{"title": ["cujojs/wire"], "link": ["https://github.com/cujojs/wire"], "desc": ["An Inversion of Control Container for Javascript apps, and acts as the Application Composition layer for cujoJS.\r"]}
+{"title": ["CutJS"], "link": ["http://cutjs.org/"], "desc": ["Lightweight, fast and interactable 2D HTML5 rendering engine for game development.\r"]}
+{"title": ["Dance.js"], "link": ["https://github.com/michael/dance"], "desc": ["Data driven visualization framework. Basically a flavor of Backbone.js, but enriched with some of the ideas of the very popular D3.js visualization framework, a Dance.js dance involves several Performers (views or visualizations) who are performing on screen. View Dance.js comes with its own data manipulation framework, data.js which functions as a replacement for Backbone Model.\r"]}
+{"title": ["dc.js/dc.js"], "link": ["https://github.com/dc-js/dc.js"], "desc": ["Multi Dimensional charting built to work natively with crossfilter rendered with d3.js.\r"]}
+{"title": ["DcodeIO/btree.js"], "link": ["https://github.com/dcodeIO/btree.js"], "desc": ["A ridiculously lean B tree of variable orders in plain JavaScript.\r"]}
+{"title": ["DcodeIO/ByteBuffer.js"], "link": ["https://github.com/dcodeIO/ByteBuffer.js"], "desc": ["Provides a full featured ByteBuffer implementation using typed arrays.\r"]}
+{"title": ["DcodeIO/colour.js"], "link": ["https://github.com/dcodeIO/colour.js"], "desc": ["A cored, fixed, documented and optimized version of the popular colors.js. Can be used as a drop in replacement, also works in the browser, provides a CSS mode and has been compiled through Closure Compiler using advanced optimizations.\r"]}
+{"title": ["DcodeIO/JustMath.js"], "link": ["https://github.com/dcodeIO/JustMath.js"], "desc": ["An implementation of two dimensional vector math including a rich toolset for vector operations.\r"]}
+{"title": ["DcodeIO/Long.js"], "link": ["https://github.com/dcodeIO/Long.js"], "desc": ["A Long class for representing a 64 bit two's complement integer value.\r"]}
+{"title": ["DcodeIO/opt.js"], "link": ["https://github.com/dcodeIO/opt.js"], "desc": ["Command line options parser.\r"]}
+{"title": ["DcodeIO/ProtoBuf.js"], "link": ["https://github.com/dcodeIO/ProtoBuf.js"], "desc": ["Protocol Buffers are a language neutral, platform neutral, extensible way of serializing structured data for use in communications protocols, data storage, originally designed at Google.\r"]}
+{"title": ["dcodeIO/PSON"], "link": ["https://github.com/dcodeIO/PSON"], "desc": ["A efficient binary serialization format for JSON. It outperforms JSON, bSON, bJSON and, if used wisely, even protobuf and thrift in encoding size.\r"]}
+{"title": ["DOMAssistant"], "link": ["http://www.domassistant.com/"], "desc": ["Modular lightweight JavaScript library, with CSS selectors, event handling and AJAX.\r"]}
+{"title": ["douglascrockford/JSON-js"], "link": ["https://github.com/douglascrockford/JSON-js"], "desc": ["JSON in JavaScript.\r"]}
+{"title": ["dscape/clarinet"], "link": ["https://github.com/dscape/clarinet"], "desc": ["SAX based evented streaming JSON parser in JavaScript.\r"]}
+{"title": ["DZ"], "link": ["https://github.com/vicapow/dz"], "desc": ["Small library to help manipulate and project 3D data, specially plotting 3 dimensional shapes in D3.\r"]}
+{"title": ["Edit area"], "link": ["http://www.cdolivet.com/editarea/"], "desc": ["Free javascript editor for source code with multilanguage support.\r"]}
+{"title": ["Emscripten"], "link": ["https://github.com/kripken/emscripten/wiki"], "desc": ["LLVM to JavaScript compiler. It takes LLVM bytecode (which can be generated from C/C++ using Clang, or any other language that can be converted into LLVM bytecode) and compiles that into JavaScript, which can be run on the web (or anywhere else JavaScript can run).\r"]}
+{"title": ["Envision.js"], "link": ["http://www.humblesoftware.com/envision"], "desc": ["Interactive HTML5 canvas and svg visualization library supporting HTML5 finance visualization.\r"]}
+{"title": ["Esprima"], "link": ["http://esprima.org/"], "desc": ["ECMAScript parsing infrastructure for multi-purpose analysis.\r"]}
+{"title": ["The Extensible Web Manifesto"], "link": ["http://extensiblewebmanifesto.org/"], "desc": ["Manifesto in support of feature development and iteration in JavaScript, followed by implementation in browsers and standardization.\r"]}
+{"title": ["Fabric.js"], "link": ["http://fabricjs.com/"], "desc": ["JavaScript Canvas Library.\r"]}
+{"title": ["Foundation"], "link": ["http://foundation.zurb.com/"], "desc": ["Responsive, front end framework.\r"]}
+{"title": ["Framer"], "link": ["http://www.framerjs.com/"], "desc": ["Prototyping tool for animation and interaction on desktop and mobile.\r"]}
+{"title": ["Functional Javascript"], "link": ["http://osteele.com/sources/javascript/functional/"], "desc": ["Library for functional programming in JavaScript.\r"]}
+{"title": ["Game Mechanic Explorer"], "link": ["http://gamemechanicexplorer.com/"], "desc": ["Collection of concrete examples for various game mechanics, algorithms, and effects. Implemented in JavaScript using the Phaser game framework.\r"]}
+{"title": ["Gka/chroma.js"], "link": ["https://github.com/gka/chroma.js"], "desc": ["JavaScript library for all kinds of color manipulations.\r"]}
+{"title": ["gmaps.js"], "link": ["http://hpneo.github.io/gmaps/"], "desc": ["Allows to use the potential of Google Maps in a simple way.\r"]}
+{"title": ["GoJS"], "link": ["http://www.gojs.net/"], "desc": ["Library for implementing interactive diagrams across modern browsers and platforms for HTML5/Canvas.\r"]}
+{"title": ["GoodBoyDigital/pixi.js"], "link": ["https://github.com/GoodBoyDigital/pixi.js"], "desc": ["HTML5 2D rendering engine that uses WebGL with canvas fallback.\r"]}
+{"title": ["Google Developers: Google Maps JavaScript API"], "link": ["https://developers.google.com/maps/documentation/javascript/"], "desc": ["Official documentation. Getting started, documentation, reference, showcase, support and blog.\r"]}
+{"title": ["Guiders.js"], "link": ["http://www.jeffpickhardt.com/guiders"], "desc": ["Library for guided tours on websites.\r"]}
+{"title": ["harthur/brain"], "link": ["https://github.com/harthur/brain"], "desc": ["A JavaScript neural network library.\r"]}
+{"title": ["harthur/clusterfck"], "link": ["https://github.com/harthur/clusterfck"], "desc": ["K-means and hierarchical clustering.\r"]}
+{"title": ["Head.JS"], "link": ["http://headjs.com/"], "desc": ["Load scripts and stylesheets on demand. Achieve responsive design with CSS that targets different screen resolutions, paths, states and browsers. Detect various browsers and their features. Target HTML5 and CSS3 safely.\r"]}
+{"title": ["Headroom.js"], "link": ["http://wicky.nillia.ms/headroom.js/"], "desc": ["Headroom.js is a lightweight, pure JS widget for hiding elements until needed.\r"]}
+{"title": ["Highcharts js"], "link": ["http://www.highcharts.com/"], "desc": ["Interactive JavaScript charts for web pages.\r"]}
+{"title": ["Higher Order JavaScript"], "link": ["http://interglacial.com/hoj/"], "desc": ["Notes by Sean Burke, inspired by \"Higher order Perl\", that highlight the parallels between JavaScript, Perl, and functional languages.\r"]}
+{"title": ["Holder.js"], "link": ["http://imsky.github.io/holder/"], "desc": ["Renders image placeholders entirely on the client side.\r"]}
+{"title": ["HTML Encode and Decode with JavaScript"], "link": ["http://www.strictly-software.com/htmlencode"], "desc": ["Object to handle encoding and decoding of entities. Encodes to numerical or html entities among other useful functions.\r"]}
+{"title": ["HTML5 Boilerplate"], "link": ["http://html5boilerplate.com/"], "desc": ["Helps build fast, robust, and adaptable web apps or sites. Kick start projects with the combined knowledge and effort of 100s of developers, all in one package.\r"]}
+{"title": ["iammerrick/Squire.js"], "link": ["https://github.com/iammerrick/Squire.js"], "desc": ["Dependency injector for Require.js users to make mocking dependencies easy.\r"]}
+{"title": ["Impact"], "link": ["http://impactjs.com/"], "desc": ["HTML5 Canvas & JavaScript Game Engine.\r"]}
+{"title": ["iskitz/ajile"], "link": ["https://github.com/iskitz/ajile"], "desc": ["Asynchronous JavaScript Importing & Loading Extension.\r"]}
+{"title": ["JavaScript Ninja Jobs"], "link": ["http://jobs.jsninja.com/"], "desc": ["Find JavaScript jobs, by occupation: designers, developers, writers; or by job type: full-time, part-time, contract.\r"]}
+{"title": ["The JavaScript Source"], "link": ["http://www.javascriptsource.com/"], "desc": ["Tutorials and scripts.\r"]}
+{"title": ["John Resig : JavaScript Micro-Templating"], "link": ["http://ejohn.org/blog/javascript-micro-templating/"], "desc": ["Super-simple templating function that is fast, caches quickly, and is easy to use.\r"]}
+{"title": ["John Resig: Pure JavaScript HTML Parser"], "link": ["http://ejohn.org/blog/pure-javascript-html-parser/"], "desc": ["Pure JavaScript HTML parser. Handles tag, text, and comments with callbacks, XML Serializer, DOM Builder, DOM Document Creator.\r"]}
+{"title": ["joseph/Monocle"], "link": ["https://github.com/joseph/Monocle"], "desc": ["A silky, tactile browser-based ebook JavaScript library.\r"]}
+{"title": ["jqPlot"], "link": ["http://www.jqplot.com/"], "desc": ["Plotting and charting plugin for the jQuery JavaScript framework. Produces line, bar and pie charts with many features.\r"]}
+{"title": ["jQuery IME"], "link": ["https://github.com/wikimedia/jquery.ime"], "desc": ["Input method editor library supporting more than 135 input methods across more than 62 languages. Maintained by Wikimedia.\r"]}
+{"title": ["jQuery Notebook Demo"], "link": ["http://raphaelcruzeiro.github.io/jquery-notebook/"], "desc": ["Plug-in to turn an HTML element into an editable component with minimal UI, and featuring basic tag elements as bold, italic, underline, links and list. Inspired by Medium.\r"]}
+{"title": ["jQuery Sparklines"], "link": ["http://www.omnipotent.net/jquery.sparkline/"], "desc": ["Plugin generates animated sparklines (small inline charts) directly in the browser using data supplied either inline in the HTML, or via JavaScript.\r"]}
+{"title": ["jQuery UI Map"], "link": ["https://code.google.com/p/jquery-ui-map/"], "desc": ["Google map v3 plugin for jQuery and jQuery Mobile. Simplifies the use by registering custom event instead of having to use Google event for simple events like click on the map and markers.\r"]}
+{"title": ["JQVMap"], "link": ["http://jqvmap.com/"], "desc": ["JQuery plugin that renders Vector Maps. It uses resizable Scalable Vector Graphics (SVG) for modern browsers with legacy support for older browsers via VML.\r"]}
+{"title": ["JS Charts"], "link": ["http://www.jscharts.com/"], "desc": ["Chart generator that requires little or no coding.\r"]}
+{"title": ["jsclass"], "link": ["http://jsclass.jcoglan.com/"], "desc": ["A portable, modular JavaScript class library, influenced by the Ruby programming language. It provides a rich set of tools for building object-oriented JavaScript programs, and is designed to run on a wide variety of client- and server-side platforms. In particular, to support the writing of equally portable JavaScript code, it provides a package manager and testing framework that run on all supported platforms.\r"]}
+{"title": ["JSDiff for Comparing Text"], "link": ["http://tobyho.com/2013/11/05/jsdiff-for-comparing-text/"], "desc": ["Implementing of text comparison in JavaScript, it is used in Mocha to implement colored diffs.\r"]}
+{"title": ["jsdo.it"], "link": ["http://jsdo.it/"], "desc": ["Coding community for front-end engineers such as web designers, mark-up engineers, and JavaScript engineers.\r"]}
+{"title": ["JSIL"], "link": ["http://jsil.org/"], "desc": ["Open source compiler that turns .NET applications, written in C# or VB.NET, into fast readable JavaScript.\r"]}
+{"title": ["json-sans-eval"], "link": ["http://code.google.com/p/json-sans-eval/"], "desc": ["A quick JavaScript JSON parser that does not use eval.\r"]}
+{"title": ["JSONSelect"], "link": ["http://jsonselect.org/"], "desc": ["Experimental selector language for JSON.\r"]}
+{"title": ["Jump JQuery map Plugin"], "link": ["http://eikes.github.io/jump/"], "desc": ["Maps library that works on its own, meaning, it is not a wrapper for OpenLayers or Google Maps API.\r"]}
+{"title": ["jVectorMap"], "link": ["http://jvectormap.com/"], "desc": ["Provides many maps of the world, world regions, countries and cities for download. Uses native browser technologies like JavaScript, CSS, HTML, SVG or VML.\r"]}
+{"title": ["Kartograph"], "link": ["http://kartograph.org/"], "desc": ["Simple and lightweight framework for building interactive map applications without Google Maps or any other mapping service.\r"]}
+{"title": ["Kendo UI"], "link": ["http://www.telerik.com/kendo-ui"], "desc": ["Build websites,mobile apps and rich HTML5 data visualizations by using Javascript and HTML5.\r"]}
+{"title": ["Khan Academy: Advanced JS: Games & Visualizations"], "link": ["https://www.khanacademy.org/computing/cs/programming-games-visualizations"], "desc": ["Intro to games and visualizations, making a side scroller: hoppy beaver, making a memory game where the player flip over cards.\r"]}
+{"title": ["Kiwi.js"], "link": ["http://www.kiwijs.org/"], "desc": ["JavaScript game engine supporting both Canvas and WebGL rendering.\r"]}
+{"title": ["kripken/speak.js"], "link": ["https://github.com/kripken/speak.js"], "desc": ["Text-to-Speech in JavaScript using eSpeak.\r"]}
+{"title": ["l20n.js"], "link": ["http://l20n.org/"], "desc": ["Localization framework. It allows localizers to put small bits of logic into localization resources to codify the grammar of the language. Removes the need for developers to thoroughly understand the specifics of a natural language and provides an opportunity for localizers to create better translations.\r"]}
+{"title": ["Lalit.org: Cookie Jar: Yummy JSON Cookies (using Prototype)"], "link": ["http://www.lalit.org/lab/jsoncookies/"], "desc": ["Store and retrieve JavaScript Objects using cookies.\r"]}
+{"title": ["Leaflet"], "link": ["http://leafletjs.com/"], "desc": ["An Open Source JavaScript Library for Mobile Friendly Interactive Maps.\r"]}
+{"title": ["Learning Three.js"], "link": ["http://learningthreejs.com/"], "desc": ["Blog about WebGL and three.js\r"]}
+{"title": ["LimeJS"], "link": ["http://www.limejs.com/"], "desc": ["HTML5 Game Framework for building fast, native-experience games for all modern touchscreens and desktop browsers.\r"]}
+{"title": ["LLJS : Low-Level JavaScript"], "link": ["http://lljs.org/"], "desc": ["Typed dialect of JavaScript that offers a C-like type system with manual memory management. It compiles to JavaScript and lets write memory-efficient and GC pause-free code less painfully.\r"]}
+{"title": ["machina.js"], "link": ["https://github.com/ifandelse/machina.js"], "desc": ["A JavaScript framework for highly customizable finite state machines (FSMs). Many of the ideas for machina have been loosely inspired by the Erlang/OTP FSM behaviours.\r"]}
+{"title": ["Machine Learning in JavaScript"], "link": ["http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/"], "desc": ["Covering K-nearest-neighbor, k-means clustering, Genetic algorithms, Naive Bayes classifier (Part 1: Document Classification), Sentiment Analysis and Neural networks. By Burak Kanber.\r"]}
+{"title": ["Machine.js"], "link": ["http://machinejs.maryrosecook.com/"], "desc": ["A hierarchical state machine to control a JavaScript object.\r"]}
+{"title": ["Maplace.js"], "link": ["http://maplacejs.com/"], "desc": ["Helps to embed Google Maps into websites, quickly creating markers and controls menu for the locations on map.\r"]}
+{"title": ["Mapstraction"], "link": ["http://mapstraction.com/"], "desc": ["Provides a single, common interface for a wide variety of JavaScript map APIs.\r"]}
+{"title": ["Marionette.js"], "link": ["http://marionettejs.com/"], "desc": ["A collection of common design and implementation patterns found in the applications that have been build with Backbone, and includes pieces inspired by composite application architectures, event driven architectures and messaging architectures.\r"]}
+{"title": ["mark-rolich/RulersGuides.js"], "link": ["https://github.com/mark-rolich/RulersGuides.js"], "desc": ["Creates Photoshop-like guides and rulers interface on a web page.\r"]}
+{"title": ["Marstall/shim"], "link": ["https://github.com/marstall/shim/"], "desc": ["Node.js-based browser-compatibility tool that synchronizes several devices/browsers to surf the same pages simultaneously on all of them.\r"]}
+{"title": ["mathiasbynens/he"], "link": ["https://github.com/mathiasbynens/he"], "desc": ["Supports all standardized named character references as per HTML, handles ambiguous ampersands and other edge cases just like a browser would, has an extensive test suite, and handles astral Unicode symbols.\r"]}
+{"title": ["mde/fleegix-js-javascript-toolkit"], "link": ["https://github.com/mde/fleegix-js-javascript-toolkit"], "desc": ["Poovides a lightweight, cross-browser set of JavaScript tools for building dynamic Web-app UIs.\r"]}
+{"title": ["melonJS"], "link": ["http://melonjs.org/"], "desc": ["A lightweight HTML5 game engine.\r"]}
+{"title": ["Meteor"], "link": ["https://www.meteor.com/"], "desc": ["Open-source platform for building top-quality web apps in a fraction of the time.\r"]}
+{"title": ["mgonto/restangular"], "link": ["https://github.com/mgonto/restangular"], "desc": ["AngularJS service that simplifies common GET, DELETE, and UPDATE requests with a minimum of client code.\r"]}
+{"title": ["Mobile Boilerplate"], "link": ["http://html5boilerplate.com/mobile/"], "desc": ["Professional front end template that helps build fast and robust mobile web applications.\r"]}
+{"title": ["Modest Maps"], "link": ["http://modestmaps.com/"], "desc": ["Small, extensible, and free library for designers and developers who want to use interactive maps in their own projects.\r"]}
+{"title": ["Moment.js"], "link": ["http://momentjs.com/"], "desc": ["Full featured date library for parsing, validating, manipulating, and formatting dates.\r"]}
+{"title": ["moochart"], "link": ["http://moochart.coneri.se/"], "desc": ["A plugin for MooTools 1. 2 that draws bubble diagrams on the canvas tag.\r"]}
+{"title": ["NaturalNode/natural"], "link": ["https://github.com/NaturalNode/natural"], "desc": ["General natural language facility for nodejs. Tokenizing, stemming, classification, phonetics, tf-idf, WordNet, string similarity, and some inflections are supported.\r"]}
+{"title": ["ngBoilerplate"], "link": ["http://joshdmiller.github.io/ng-boilerplate/"], "desc": ["Kickstart AngularJS projects: best practice directory structure, an intelligent build system, and the best web design libraries around.\r"]}
+{"title": ["Nicjansma/usertiming.js"], "link": ["https://github.com/nicjansma/usertiming.js"], "desc": ["Adds UserTiming support to browsers that do not natively support.\r"]}
+{"title": ["NYTimes/ice.js"], "link": ["https://github.com/nytimes/ice"], "desc": ["Track changes implementation, built in JavaScript, for anything that is contenteditable on the web.\r"]}
+{"title": ["Object Playground"], "link": ["http://www.objectplayground.com/"], "desc": ["Guide to object-oriented JavaScript.\r"]}
+{"title": ["Oboe.js"], "link": ["http://oboejs.com/"], "desc": ["A streaming approach to JSON. Oboe.js is a JavaScript library for Node.js and browsers that speeds up web applications by providing parsed objects before the response completes.\r"]}
+{"title": ["OpenJS"], "link": ["http://www.openjs.com/"], "desc": ["Provides source code, articles and tutorials about JavaScript and related topics like Ajax and client-side scripting.\r"]}
+{"title": ["OpenLayers"], "link": ["http://openlayers.org/"], "desc": ["An open-source JavaScript library to load, display and render maps from multiple sources.\r"]}
+{"title": ["OSM Buildings"], "link": ["http://osmbuildings.org/"], "desc": ["An additional layer to existing web maps. Works with LeafletJS and OpenLayers.\r"]}
+{"title": ["pdf.js"], "link": ["https://github.com/mozilla/pdf.js/wiki"], "desc": ["PDF Reader in JavaScript.\r"]}
+{"title": ["PeerJS"], "link": ["http://peerjs.com/"], "desc": ["Simplifies WebRTC peer to peer data, video, and audio calls.\r"]}
+{"title": ["Phaser"], "link": ["http://phaser.io/"], "desc": ["A free, fast and flexible framework for HTML5 game creation.\r"]}
+{"title": ["PHP.Jjs"], "link": ["http://phpjs.org/"], "desc": ["An open source project to port PHP functions to JavaScript. By including the library in projects, PHP functions may be used client-side. The site offers a wiki for support alongside with the downloads.\r"]}
+{"title": ["PhysicsJS"], "link": ["http://wellcaffeinated.net/PhysicsJS/"], "desc": ["A modular, extendable, and easy to use physics engine for JavaScript.\r"]}
+{"title": ["Planetary.js"], "link": ["http://planetaryjs.com/"], "desc": ["Awesome interactive globes for the web.\r"]}
+{"title": ["PlotKit"], "link": ["http://www.liquidx.net/plotkit/"], "desc": ["Chart and Graph Plotting Library for JavaScript. It has support for HTML Canvas and also SVG via Adobe SVG Viewer and native browser support.\r"]}
+{"title": ["Polymaps"], "link": ["http://polymaps.org/"], "desc": ["JavaScript library for image- and vector-tiled maps using SVG.\r"]}
+{"title": ["Polymer"], "link": ["http://www.polymer-project.org/"], "desc": ["Library that uses the latest web technologies to create custom HTML elements.\r"]}
+{"title": ["Popcorn.js"], "link": ["http://popcornjs.org/"], "desc": ["The HTML5 Media framework.\r"]}
+{"title": ["Processing.js"], "link": ["http://processingjs.org/"], "desc": ["A port of the Processing Visualization Language.\r"]}
+{"title": ["Punch"], "link": ["http://laktek.github.io/punch/"], "desc": ["Punch is a simple, intuitive web publishing framework.\r"]}
+{"title": ["Rapha\u00ebl"], "link": ["http://raphaeljs.com/"], "desc": ["Vector Graphics JavaScript Library.\r"]}
+{"title": ["React"], "link": ["http://facebook.github.io/react/"], "desc": ["A JavaScript library for building user interfaces.\r"]}
+{"title": ["Recline.js"], "link": ["http://okfnlabs.org/recline/"], "desc": ["Library for building data applications in pure JavaScript and HTML, recline re uses best of breed presentation libraries like SlickGrid, leaflet, flot and D3 to create data 'Views' and allows to connect them with data in seconds.\r"]}
+{"title": ["reddit: JavaScript"], "link": ["http://www.reddit.com/r/javascript/"], "desc": ["Community stories and comments, news, books, articles, tools, libraries, frameworks.\r"]}
+{"title": ["Reveal.js"], "link": ["http://lab.hakim.se/reveal-js/#/"], "desc": ["A framework for easily creating beautiful presentations using HTML.\r"]}
+{"title": ["rmurphey/js-assessment"], "link": ["https://github.com/rmurphey/js-assessment"], "desc": ["Set of tests that can be used to assess the skills of a candidate for a JavaScript position, or to improve one's own skills.\r"]}
+{"title": ["RoughDraft.js"], "link": ["http://ndreckshage.github.io/roughdraft.js/"], "desc": ["Prototype a full interactive HTML mock-up without duplicating markup, server-side loops/code, or having to source fake content (lorem ipsum text/images).\r"]}
+{"title": ["Select2"], "link": ["http://ivaynberg.github.io/select2/"], "desc": ["JQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.\r"]}
+{"title": ["Session variables without cookies"], "link": ["http://www.thomasfrank.se/sessionvars.html"], "desc": ["Uses window.name property for storage allowing more complex objects and amount of data than cookies.\r"]}
+{"title": ["Sheetsee.js"], "link": ["http://jlord.us/sheetsee.js/"], "desc": ["Client-side library for connecting Google Spreadsheets to a website and visualizing the information in tables, maps and charts.\r"]}
+{"title": ["Sigma.js"], "link": ["http://sigmajs.org/"], "desc": ["Library dedicated to graph drawing.\r"]}
+{"title": ["SLI.js"], "link": ["http://www.slijs.com/"], "desc": ["Allows to a user of a page/site to login or register using their social logins such as Facebook, Google, Yahoo, or Linkedin.\r"]}
+{"title": ["SlidesJS"], "link": ["http://slidesjs.com/"], "desc": ["A responsive slideshow plug-in for jQuery with features like touch and CSS3 transitions.\r"]}
+{"title": ["Sly"], "link": ["http://darsa.in/sly/"], "desc": ["JavaScript library for one directional scrolling with item based navigation support.\r"]}
+{"title": ["Spatial Unlimited"], "link": ["http://shreerangpatwardhan.blogspot.com/p/code-samples.html"], "desc": ["Blog about Google Maps API v3, GIS, and Jquery Mobile with rich code samples to jump-start learning curves.\r"]}
+{"title": ["Stowball/jQuery-rwdImageMaps"], "link": ["https://github.com/stowball/jQuery-rwdImageMaps"], "desc": ["Allows image maps to be used in a responsive design by recalculating the area coordinates to match the actual image size on load and window. Resize.\r"]}
+{"title": ["StratifiedJS"], "link": ["http://onilabs.com/stratifiedjs"], "desc": ["Modernizes the JavaScript language for use in non-trivial web applications.\r"]}
+{"title": ["svendtofte.com - Curried JavaScript functions"], "link": ["http://javascript.crockford.com/www_svendtofte_com/code/curried_javascript/index.html"], "desc": ["What currying means, and just how to go about doing this in JavaScript.\r"]}
+{"title": ["theiviaxx/MilkChart"], "link": ["https://github.com/theiviaxx/MilkChart/"], "desc": ["Graphing library for MooTools.\r"]}
+{"title": ["Thorax"], "link": ["http://thoraxjs.org/"], "desc": ["An opinionated, battle tested Backbone + Handlebars, framework to build large scale web applications.\r"]}
+{"title": ["Three.js"], "link": ["http://threejs.org/"], "desc": ["A JavaScript 3D Library which makes WebGL simpler.\r"]}
+{"title": ["toner"], "link": ["http://citytracking.github.io/toner/"], "desc": ["High contrast, black-and-white map tiles, and Mapnik stylesheets, used for the Dotspotting project.\r"]}
+{"title": ["Tourist.js"], "link": ["http://easelinc.github.io/tourist/"], "desc": ["Library for creating guided tours, has the ability to control the interface for each step. Has dependency with Backbone and jQuery.\r"]}
+{"title": ["TriplestoreJS"], "link": ["http://www.w3.org/2013/04/semweb-html5/triplestoreJS/"], "desc": ["Wrapper library enables web applications to store triples subject-property-value into HTML5 Web Storage. The API looks like an extension of W3C RDFa API.\r"]}
+{"title": ["TufteGraph"], "link": ["http://xaviershay.github.io/tufte-graph/"], "desc": ["Graphs with JavaScript, using jQuery.\r"]}
+{"title": ["Underscore.js"], "link": ["http://underscorejs.org/"], "desc": ["Provides 80+ functions that support both the usual functional suspects: map, filter, invoke \u2014 as well as more specialized helpers: function binding, JavaScript templating and deep equality testing.\r"]}
+{"title": ["Untrusted"], "link": ["http://alexnisnevich.github.io/untrusted/"], "desc": ["The continuing adventures of Dr. Eval.\r"]}
+{"title": ["Vega"], "link": ["http://trifacta.github.io/vega/"], "desc": ["Visualization grammar, a declarative format for creating, saving and sharing visualization designs.\r"]}
+{"title": ["Velocity.js"], "link": ["http://julian.com/research/velocity/"], "desc": ["jQuery plugin that re-implements $.animate() and produces animations with significant better performance (also faster or smother than CSS).\r"]}
+{"title": ["Video.js"], "link": ["http://www.videojs.com/"], "desc": ["Video.js is a JavaScript and CSS library that makes it easier to work with and build on HTML5 video. This is also known as an HTML5 Video Player.\r"]}
+{"title": ["Vim.js"], "link": ["http://coolwanglu.github.io/vim.js/web/vim.html"], "desc": ["JavaScript port of Vim.\r"]}
+{"title": ["Visualize: filamentgroup/jQuery"], "link": ["https://github.com/filamentgroup/jQuery-Visualize"], "desc": ["HTML5 canvas charts driven by HTML table elements.\r"]}
+{"title": ["VisualSearch.js"], "link": ["http://documentcloud.github.io/visualsearch/"], "desc": ["Enhances ordinary search boxes with the ability to autocomplete faceted search queries. Specify the facets for completion, along with the completable values for any facet. Can retrieve the search query as a structured object, developer don't have to parse the query string.\r"]}
+{"title": ["WebRTC"], "link": ["http://www.webrtc.org/"], "desc": ["WebRTC is a open source project aiming to enable the web with Real Time Communication (RTC) capabilities.\r"]}
+{"title": ["Wedeveloper.com JavaScript Forum"], "link": ["http://www.webdeveloper.com/forum/forumdisplay.php?3-JavaScript-Language"], "desc": ["A popular online dicussion forum.\r"]}
+{"title": ["What Is JavaScript?"], "link": ["http://media.wiley.com/product_data/excerpt/88/07645790/0764579088.pdf"], "desc": ["A brief history and introduction to the language, covering the implementation and standardization as ECMAScript.\r"]}
+{"title": ["WhatsNearby"], "link": ["https://github.com/LaGrangeMtl/WhatsNearby"], "desc": ["A jQuery plugin to list and show nearby places around a certain position using Google Maps.\r"]}
+{"title": ["Wikipedia: JavaScript"], "link": ["http://en.wikipedia.org/wiki/JavaScript"], "desc": ["Encyclopaedia article about the language. Covers its history, features, syntax, security, tools and criticisms.\r"]}
+{"title": ["XML.ObjTree"], "link": ["http://www.kawa.net/works/js/xml/objtree-e.html"], "desc": ["XML source code from/to JavaScript object like E4X.\r"]}
+{"title": ["ZenIRCBot"], "link": ["http://zenircbot.readthedocs.org/"], "desc": ["An IRC bot runing in Node.js or Python with Redis. Supports extensibility for services. Includes documentation, download, and information for contributors. [MIT license]\r"]}
+{"title": ["The Elder Scrolls V: Skyrim  Wiki"], "link": ["http://elderscrolls.wikia.com/wiki/The_Elder_Scrolls_V:_Skyrim"], "desc": ["Information on the game's plot, gameplay, characters, weapons etc. User input welcome.\r"]}
+{"title": ["The Elder Scrolls V: Skyrim - Xbox 360 - IGN"], "link": ["http://uk.ign.com/games/the-elder-scrolls-v-skyrim/xbox-360-14267318"], "desc": ["IGN is the Skyrim (Xbox 360) resource with reviews, wikis, videos, trailers, screenshots, cheats, walkthroughs, previews, news and release dates\r"]}
+{"title": ["The Elder Scrolls V: Skyrim for the PS3"], "link": ["http://reviewanygame.com/elder-scrolls-skyrim-ps3.html"], "desc": ["High definition screenplay and trailers with cheats, reviews and message boards.\r"]}
+{"title": ["The Elder Scrolls V: Skyrim for the Xbox 360"], "link": ["http://uk.reviewanygame.com/the-elder-scrolls-v-skyrim-xbox-360.html"], "desc": ["High Definition gameplay, trailers and screenshots with reviews, cheats and message boards.\r"]}
+{"title": ["The Elder Scrolls V: Skyrimin- Wikipedia."], "link": ["http://en.wikipedia.org/wiki/Elder_Scrolls_V:_Skyrim"], "desc": ["A lengthy article dealing with all aspects of the game.\r"]}
+{"title": ["The Register"], "link": ["http://www.theregister.co.uk/1999/09/22/amiga_ceo_confirms_softwareonly_strategy/"], "desc": ["Amiga CEO confirms software-only strategy.\r"]}
+{"title": ["Amiga Advisory Council"], "link": ["http://www.cucug.org/amiga/aminews/1999/990805-ai.html"], "desc": ["AAC Officially Launched.  This well respected group was established to help Amiga Inc. with its future plans.\r"]}
+{"title": ["Slashdot - Amiga to use Linux Kernel"], "link": ["http://slashdot.org/articles/99/07/09/1224209.shtml"], "desc": ["Announcement and discussion of Amiga Technologies' plans to use the Linux kernel.\r"]}
+{"title": ["Slashdot - QNX Update On New Amiga OS"], "link": ["http://slashdot.org/article.pl?sid=99/07/08/208226"], "desc": ["Announcement and discussion of QNX releasing details and screenshots of their new Amiga OS.\r"]}
+{"title": ["AmiJoe"], "link": ["http://www.cucug.org/amiga/aminews/1999/990326-metabox.html"], "desc": ["Met@box Announces G3 PPC Accelerator for the Amiga.\r"]}
+{"title": ["Official PlayStation  website: PlayStation 4"], "link": ["http://uk.playstation.com/ps4/"], "desc": ["News, previews, accessories and games.\r"]}
+{"title": ["PlayStation 4 at Wikipedia"], "link": ["http://en.wikipedia.org/wiki/PlayStation_4"], "desc": ["An article on the development of the PS4, with technical information on the device and its accessories. \r"]}
+{"title": ["PlayStation 4 Wiki Guide - IGN"], "link": ["http://uk.ign.com/wikis/playstation-4"], "desc": ["Information on the PS4 along with game previews. \r"]}
+{"title": ["PS4 Games"], "link": ["http://uk.reviewanygame.com/ps4"], "desc": ["High Definition trailers and screenshots with reviews and cheats for PlayStation 4 games.\r"]}
+{"title": ["PS4 Home"], "link": ["http://www.ps4home.com/"], "desc": ["The latest PS4 news, reviews, previews, articles etc..\r"]}
+{"title": ["HiSoft Systems"], "link": ["http://www.hisoft.co.uk/"], "desc": ["Publishers of IBrowse, and HiSoft C++.\r"]}
+{"title": ["Leo Schwab"], "link": ["http://ewhac.best.vwh.net/amiga/"], "desc": ["Homepage of the developer of Eurostars and Nopaz, and creator  of several animations.\r"]}
+{"title": ["Aminet"], "link": ["http://www.aminet.net/"], "desc": ["Large collection of freeware/shareware/GPL Amiga software and information.  Aminet has mirrors across the globe.\r"]}
+{"title": ["Amiga 30 Years"], "link": ["http://amiga30.eu/"], "desc": ["If you grew up with Amiga come over to The Lighthouse in Amsterdam, June 27th, 2015. We\u2019ll throw an event to revive history.\r"]}
+{"title": ["Amiga Related Books FAQ"], "link": ["http://www.faqs.org/faqs/amiga/books/"], "desc": ["This FAQ is compiled as a service to the Amiga community. It is an attempt to give the Amiga programmer and user an overview of useful books for his/her favorite computer.\r"]}
+{"title": ["Amiga Usenet FAQs"], "link": ["http://www.faqs.org/faqs/amiga/"], "desc": ["A collection of FAQs about Amiga.\r"]}
+{"title": ["Amiga, Inc."], "link": ["http://www.amiga.com/"], "desc": ["Corporate news and product information.\r"]}
+{"title": ["Amiga.org"], "link": ["http://www.amiga.org/"], "desc": ["The World's Premier site for News, Events, and resources relating to the Amiga Computer.\r"]}
+{"title": ["AmigaZone"], "link": ["http://www.amigazone.com/"], "desc": ["Online resource for Amiga enthusiasts.\r"]}
+{"title": ["Classic Amiga"], "link": ["http://www.classicamiga.com/"], "desc": ["Covers various aspects of the platform including games, demos, software, hardware and magazines. Also includes a forum.\r"]}
+{"title": ["SASG International"], "link": ["http://www.sasg.com/"], "desc": ["The official website of the Standardized Amiga Shareware Group, an alliance of well-known shareware authors offering products like MUI, and MagicWB.\r"]}
+{"title": ["SnoopDos"], "link": ["http://www.iol.ie/~ecarroll/snoopdos.html"], "desc": ["Find out what those programs are doing.  Great utility to help troubleshoot computer software related problems.\r"]}
+{"title": ["System Security for AmigaOS"], "link": ["http://mufs.sourceforge.net/"], "desc": ["Multiuser is the continuation of the Multiuser Filesystem (muFS), and provides UNIX style security for AmigaOS preventing people from accessing private/secret/sensitive files or deleting files they shouldn't.\r"]}
+{"title": ["Arcade@Home"], "link": ["http://www.arcadeathome.com/"], "desc": ["News, emulators and ROMs of various arcade and console systems for download.\r"]}
+{"title": ["Calimero's EGG"], "link": ["http://digilander.libero.it/calimerosegg/"], "desc": ["Screenshot galleries of emulated games for various systems.\r"]}
+{"title": ["Dorando"], "link": ["http://dorando.emuverse.com/"], "desc": ["List of available emulators and compatibility tests for these.\r"]}
+{"title": ["easyEmu"], "link": ["http://www.mameworld.info/easyemu/"], "desc": ["A beginner's guide including tutorials, reviews and links to begin.\r"]}
+{"title": ["Emu - Celebs"], "link": ["http://www.emu-celebs.consollection.com/"], "desc": ["A database of all the emusceners with photo, projects involved and a mini-CV.\r"]}
+{"title": ["Emulation Zone"], "link": ["http://www.emulationzone.org/"], "desc": ["The original Emulation Zone, hosts many emulation related sites and provides information on console emulation.\r"]}
+{"title": ["The Emulator Zone"], "link": ["http://www.emulator-zone.com/"], "desc": ["Latest emulators for Nintendo 64, Playstation, Super Nintendo, Gameboy and many other systems.\r"]}
+{"title": ["emulinks.de"], "link": ["http://www.emulinks.de/"], "desc": ["Emulation, vintage computing and gaming systems directory.\r"]}
+{"title": ["EmuLynx"], "link": ["http://emulynxhome.tripod.com/"], "desc": ["A directory classified into categories.\r"]}
+{"title": ["GeePee32"], "link": ["http://users.skynet.be/firefly/gp32/"], "desc": ["A freeware GamePark 32 emulator for Windows.\r"]}
+{"title": ["Patent Pending"], "link": ["http://patpend.net/"], "desc": ["A huge emulator site for all your emulator needs.\r"]}
+{"title": ["The RCA Studio 2 Emulator"], "link": ["http://www.robsons.org.uk/archive/www.classicgaming.com/studio2/"], "desc": ["Freeware RCA Studio 2 emulator for DOS and Windows.\r"]}
+{"title": ["Slipstream"], "link": ["http://www.konixmultisystem.co.uk/index.php?id=emulator"], "desc": ["Freeware Konix Multi-System emulator for Windows.\r"]}
+{"title": ["JavaScript Guide"], "link": ["https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide"], "desc": ["Overviews, demonstrations, sample code, values, expressions, functions, objects and closures.\r"]}
+{"title": ["Code Avengers"], "link": ["http://www.codeavengers.com/"], "desc": ["Fun and interactive tutorials for learning JavaScript.\r"]}
+{"title": ["The Code Player"], "link": ["http://thecodeplayer.com/"], "desc": ["Plays code like a video helping people to learn technologies like HTML5, CSS3, JavaScript and jQuery interactively.\r"]}
+{"title": ["Code School"], "link": ["https://www.codeschool.com/paths/javascript"], "desc": ["Learn to build lightweight applications with enhanced user interfaces.\r"]}
+{"title": ["Codecademy: JavaScript"], "link": ["http://www.codecademy.com/tracks/javascript"], "desc": ["Learn how to make interactive websites and build browser based games.\r"]}
+{"title": ["CodeCombat"], "link": ["http://codecombat.com/"], "desc": ["Learn programming with a multiplayer live coding strategy game.\r"]}
+{"title": ["comp.lang.javascript meta-faq"], "link": ["http://www.jibbering.com/faq/"], "desc": ["meta-FAQ for usenet newsgroup comp.lang.javascript.\r"]}
+{"title": ["Even Faster Web Sites Blog Posts"], "link": ["http://stevesouders.com/efws/blogposts.php"], "desc": ["Tips on faster JavaScript loading and execution.\r"]}
+{"title": ["HTML Dog: JavaScript Tutorials"], "link": ["http://htmldog.com/guides/javascript/"], "desc": ["Beginner, intermediate, and advanced tutorials.\r"]}
+{"title": ["HTML5 Rocks: JavaScript"], "link": ["http://www.html5rocks.com/en/search?q=JavaScript"], "desc": ["Articles, news and tutorials on JavaScript, and related technologies.\r"]}
+{"title": ["HTMLGoodies: JavaScript Tutorials"], "link": ["http://www.htmlgoodies.com/beyond/javascript/index.php"], "desc": ["Offers script writing tips, information on differences between the language and Java, setting a cookie counter, and writing forms. Features examples.\r"]}
+{"title": ["JavaScript FAQ Knowledge Base"], "link": ["http://www.irt.org/script/script.htm"], "desc": ["FAQs on various aspects of JavaScript.\r"]}
+{"title": ["JavaScript Tutorial"], "link": ["http://javascript.info/"], "desc": ["Translation of a Russian tutorial, includes: JavaScript from the ground to closures, document and events, object oriented programming, timing, frames and windows, regular expressions and advanced topics.\r"]}
+{"title": ["Jennifer Madden's JavaScript Tutorials"], "link": ["http://jennifermadden.com/javascript/"], "desc": ["Offers tutorials with practical, real-world examples.\r"]}
+{"title": ["Learning Advanced JavaScript"], "link": ["http://ejohn.org/apps/learn/"], "desc": ["Short and simple introductions to core language, going to advanced topics.\r"]}
+{"title": ["Let\u2019s Code JavaScript"], "link": ["http://www.letscodejavascript.com/"], "desc": ["Test-Driven development.\r"]}
+{"title": ["Machine Learning for JavaScript Hackers"], "link": ["http://harthur.github.io/txjs-slides/"], "desc": ["Basic introduction with samples.\r"]}
+{"title": ["Pineapple: JavaScript Tutorials"], "link": ["http://pineapple.io/resources/tagged/javascript?type=tutorials"], "desc": ["Index of tutorials with descriptions, tags, comments, and level of popularity.\r"]}
+{"title": ["Stack Overflow: JavaScript"], "link": ["http://stackoverflow.com/questions/tagged/javascript"], "desc": ["Collaboratively edited question and answers site.\r"]}
+{"title": ["Survive JS"], "link": ["http://survivejs.com/"], "desc": ["Short questions and answer to help understand the language.\r"]}
+{"title": ["Tuts+: 30 Days to Learn jQuery"], "link": ["https://tutsplus.com/course/30-days-to-learn-jquery/"], "desc": ["Video tutorial by Jeffrey Way, describes fundamentals, and covers common cases in the usage of the library.\r"]}
+{"title": ["User Experience: JavaScript"], "link": ["http://ux.stackexchange.com/questions/tagged/javascript"], "desc": ["Questions and answers related to the language from an UX point of view.\r"]}
+{"title": ["W3C DOM FAQ"], "link": ["http://www.w3.org/DOM/faq.html"], "desc": ["Official W3C DOM Working Group FAQ.\r"]}
+{"title": ["Client-Side JavaScript Templates"], "link": ["http://www.fishwasher.com/jst/page1.html"], "desc": ["Lessons created by Vlad Podvorny that feature information on boxes, frames, navigation elements, random content and offers references.\r"]}
+{"title": ["JavaScript for E-Commerce"], "link": ["http://www.wirejunkie.com/resources/ecommerce/jsec/"], "desc": ["Features lessons for creating shopping sites. Includes example scripts.\r"]}
+{"title": ["Adams, Cameron"], "link": ["http://www.themaninblue.com/tags/javascript/"], "desc": ["JavaScript articles and experiments from the \u201cThe Man in Blue\u201d; author of \u201cThe JavaScript Anthology\u201d.\r"]}
+{"title": ["Bijay Joshi"], "link": ["http://bijayjoshi.com.np/"], "desc": ["Developer from Nepal trying to push his world around him.\r"]}
+{"title": ["Chipman, Steve"], "link": ["http://slayeroffice.com/"], "desc": ["A sizeable collection of JavaScript code and discussion.\r"]}
+{"title": ["The Coder's Way"], "link": ["http://demetriusj.com/"], "desc": ["Demetrius Johnson, working on creative web apps, server side code, and embedded systems.\r"]}
+{"title": ["Couvreur, Julien"], "link": ["http://blog.monstuff.com/"], "desc": ["JavaScript discussion, examples and code.\r"]}
+{"title": ["Danny Goodman FAQ"], "link": ["http://www.dannyg.com/"], "desc": ["FAQs and resources for Danny Goodman's JavaScript books. [2007]\r"]}
+{"title": ["Freitag, Pete"], "link": ["http://www.petefreitag.com/tag/javascript"], "desc": ["Development resources and JavaScript discussion.\r"]}
+{"title": ["Ho, Toby"], "link": ["http://tobyho.com/"], "desc": ["JavaScript, UI design, programming and making general things.\r"]}
+{"title": ["Jacob T. Nielsen"], "link": ["http://whoknew.dk/"], "desc": ["Code, examples, tips and discussions.\r"]}
+{"title": ["Javascript Kata"], "link": ["http://www.javascriptkata.com/"], "desc": ["Offers a weblog with tutorials and tips for beginners and advanced users.\r"]}
+{"title": ["Jessup, Will"], "link": ["http://www.willjessup.com/?cat=3"], "desc": ["Form validator and 3d rotator code for the jQuery library.\r"]}
+{"title": ["Keith, Jeremy"], "link": ["http://adactio.com/articles/"], "desc": ["JavaScript commentary from the author of \u201cDOM Scripting\u201d and \u201cBulletproof Ajax\u201d.\r"]}
+{"title": ["Koch, Peter-Paul"], "link": ["http://www.quirksmode.org/js/contents.html"], "desc": ["The JavaScript section of Quirksmode.org; modelled to compliment the author\u2019s book, \u201cppk on JavaScript\u201d.\r"]}
+{"title": ["Lemon, Gez"], "link": ["http://juicystudio.com/articles.php?page=0&category=5"], "desc": ["JavaScript discussion, examples and code.\r"]}
+{"title": ["Nic Bell"], "link": ["http://nicbell.net/"], "desc": ["A portfolio about javascript and HTML.\r"]}
+{"title": ["Nick Fitzgerald's Weblog"], "link": ["http://fitzgeraldnick.com/weblog/"], "desc": ["JavaScript, ECMAScript, technology.\r"]}
+{"title": ["Rutter, Richard"], "link": ["http://clagnut.com/archive/index.php?category_id=30"], "desc": ["JavaScript discussion and code from the co-author of \u201cWeb Accessibility: Web Standards and Regulatory Compliance\u201d.\r"]}
+{"title": ["Schlueter, Isaac"], "link": ["http://foohack.com/category/javascript/"], "desc": ["JavaScript code, examples and discussion.\r"]}
+{"title": ["Skinner, Jesse"], "link": ["http://www.thefutureoftheweb.com/blog/cat/javascript"], "desc": ["JavaScript tips and examples with a focus on Ajax and jQuery.\r"]}
+{"title": ["Small.js"], "link": ["http://smalljs.org/"], "desc": ["A blog on the what, how, and why of small.js modules.\r"]}
+{"title": ["Web Development is Easy"], "link": ["http://www.webdeveasy.com/"], "desc": ["Naor Yehudaey blog tips and articles about web development languages, frameworks and tools.\r"]}
+{"title": ["Webb, Dan"], "link": ["http://danwebb.net/javascript"], "desc": ["Advanced JavaScript techniques and discussion.\r"]}
+{"title": ["Wirtz, Daniel"], "link": ["http://dcode.io/"], "desc": ["Computer science student at University of Applied Sciences Bonn. Shares projects, music, and work.\r"]}
+{"title": ["acuminous/yadda"], "link": ["https://github.com/acuminous/yadda"], "desc": ["BDD to JavaScript test frameworks such as Jasmine, Mocha, QUnit, Nodeunit, WebDriverJs and CasperJS.\r"]}
+{"title": ["airportyh/testem"], "link": ["https://github.com/airportyh/testem"], "desc": ["Test-framework agnostic. Support for Jasmine, QUnit, Mocha, Buster.js, through custom test framework adapters. Run tests in all major browsers as well as Node and PhantomJS.\r"]}
+{"title": ["andreypopp/sweet-assertions"], "link": ["https://github.com/andreypopp/sweet-assertions"], "desc": ["Syntax for writing informative testing assertions.\r"]}
+{"title": ["andybeeching/qmock"], "link": ["https://github.com/andybeeching/qmock"], "desc": ["Standalone, lightweight mocking framework that facilitates the testing of JavaScript programs.\r"]}
+{"title": ["angular/protractor"], "link": ["https://github.com/angular/protractor"], "desc": ["E2E test framework for Angular apps.\r"]}
+{"title": ["Blanket.js"], "link": ["http://blanketjs.org/"], "desc": ["Seamless JavaScript code coverage. Supports QUnit, Mocha and Jasmine.\r"]}
+{"title": ["boomerang"], "link": ["http://www.lognormal.com/boomerang/doc/"], "desc": ["Measures the performance of websites from end user's point of view. It has the ability to send this data back to any server for further analysis.\r"]}
+{"title": ["brophdawg11/Automator.js"], "link": ["https://github.com/brophdawg11/Automator.js"], "desc": ["Accept an Array of steps to automate them.\r"]}
+{"title": ["Buster.JS"], "link": ["http://busterjs.org/"], "desc": ["Browser automation testing toolkit.\r"]}
+{"title": ["CasperJS"], "link": ["http://casperjs.org/"], "desc": ["Eases the process of defining a full navigation scenario and provides useful high-level functions, clicking, logging, capturing screenshots and filling forms.\r"]}
+{"title": ["Chai Assertion Library"], "link": ["http://chaijs.com/"], "desc": ["BDD/TDD assertion library for node and the browser that can be delightfully paired with any JavaScript testing framework.\r"]}
+{"title": ["Chrome DevTools \u2014 Debugging JavaScript"], "link": ["https://developer.chrome.com/devtools/docs/javascript-debugging"], "desc": ["Describes a number of useful tools.\r"]}
+{"title": ["Codecademy/jquery-expect"], "link": ["https://github.com/Codecademy/jquery-expect"], "desc": ["Simple DOM assertion library.\r"]}
+{"title": ["Console.js"], "link": ["https://github.com/NV/console.js"], "desc": ["Cross-browser Firebug console API.\r"]}
+{"title": ["Crawljax"], "link": ["http://crawljax.com/about/"], "desc": ["Open source Java tool for automatically crawling and testing modern web applications. Crawljax can explore any JavaScript-based Ajax web application through an even-driven dynamic crawling engine. It automatically creates a state-flow graph of the dynamic DOM states and the event-based transitions between them.\r"]}
+{"title": ["DalekJS"], "link": ["http://dalekjs.com/"], "desc": ["Automated cross browser testing with JavaScript. launch and fill and submit forms, click, follow links, capture screenshots.\r"]}
+{"title": ["DexterJS"], "link": ["https://github.com/leobalter/DexterJS"], "desc": ["A simple test helper to mock and spy methods and to fake the Ajax interface. It's framework independent.\r"]}
+{"title": ["Doctest.js"], "link": ["http://doctestjs.org/"], "desc": ["Test runner and testing framework for JavaScript.\r"]}
+{"title": ["domenic/chai-as-promised"], "link": ["https://github.com/domenic/chai-as-promised"], "desc": ["Extends Chai with assertions about promises.\r"]}
+{"title": ["douglascrockford/JSCheck"], "link": ["https://github.com/douglascrockford/JSCheck"], "desc": ["A random property testing tool for JavaScript.\r"]}
+{"title": ["douglascrockford/JSDev"], "link": ["https://github.com/douglascrockford/JSDev"], "desc": ["A filter that activates selected comments, making them executable. Makes it possible to put development, performance, and testing scaffolding into a source file.\r"]}
+{"title": ["Dromaeo"], "link": ["http://dromaeo.com/"], "desc": ["JavaScript performance testing.\r"]}
+{"title": ["ebobby/tracing.js"], "link": ["https://github.com/ebobby/tracing.js"], "desc": ["A small JS library that makes it possible to trace function calls.\r"]}
+{"title": ["EvanBurchard/wish"], "link": ["https://github.com/EvanBurchard/wish"], "desc": ["Node assertion library without special syntax.\r"]}
+{"title": ["gotwarlost/istanbul"], "link": ["https://github.com/gotwarlost/istanbul"], "desc": ["Code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.\r"]}
+{"title": ["groupon-testium/testium"], "link": ["https://github.com/groupon-testium/testium"], "desc": ["Integration test platform for Node.js using mocha and a sync API.\r"]}
+{"title": ["happen"], "link": ["http://www.macwright.org/happen/"], "desc": ["Script interfaces for web scraping, test applications based on really whether they respond to events, emulate touch or mouse events as vice versa.\r"]}
+{"title": ["Hiro"], "link": ["http://anton.kovalyov.net/hiro/"], "desc": ["Small testing framework designed with third-party JavaScript applications in mind. A demo and the source code is provided along with instructions.\r"]}
+{"title": ["Huddle/PhantomXHR"], "link": ["https://github.com/Huddle/PhantomXHR"], "desc": ["Has been developed to support testing of Ajax powered Web apps. Using SinonJS, PhantomXHR isolates the UI from its server-side API using stubs and mocking to simulate server responses.\r"]}
+{"title": ["Illuminations for Developers"], "link": ["http://www.illuminations-for-developers.com/"], "desc": ["A browser extension that takes JavaScript frameworks and makes their internals visible, including views, models, class names.\r"]}
+{"title": ["Intern"], "link": ["http://theintern.io/"], "desc": ["Takes the stress out of testing Web apps.\r"]}
+{"title": ["istanbul.js"], "link": ["http://gotwarlost.github.io/istanbul/"], "desc": ["A JavaScript code coverage tool written in JS.\r"]}
+{"title": ["jamesarosen/Timecop.js"], "link": ["https://github.com/jamesarosen/Timecop.js"], "desc": ["A JavaScript library providing \"time travel\" and \"time freezing\" capabilities for testing. A port of John Trupiano's Timecop Ruby to JavaScript.\r"]}
+{"title": ["Jasmine"], "link": ["http://jasmine.github.io/"], "desc": ["Behavior-driven development framework for testing JavaScript code. It does not depend on any other JavaScript framework. It does not require a DOM. It gets described shortly and links to the download are provided.\r"]}
+{"title": ["JavaScript Debugger"], "link": ["https://developer.mozilla.org/en-US/docs/Tools/Debugger"], "desc": ["Step through JavaScript code and examine or modify its state to help track down bugs.\r"]}
+{"title": ["JavaScript Function Graph"], "link": ["http://jfg.atwebpages.com/"], "desc": ["Online tool to draw a graph showing which functions call other functions.\r"]}
+{"title": ["jcoglan/jstest"], "link": ["https://github.com/jcoglan/jstest"], "desc": ["Cross-platform JavaScript test framework.\r"]}
+{"title": ["JCov"], "link": ["http://yp-engineering.github.io/jcov/"], "desc": ["Lightweight, headless JavaScript test runner that reports code coverage.\r"]}
+{"title": ["JSCheck"], "link": ["http://www.jscheck.org/"], "desc": ["A specification-driven testing tool. From a description of the properties of a system, function, or object, it will generate random test cases attempting to prove those properties, and then report its findings. That can be especially effective in managing the evolution of a program because it can show the conformance of new code to old code.\r"]}
+{"title": ["JSCover"], "link": ["http://siliconforks.com/jscoverage/"], "desc": ["Tool that measures code coverage for JavaScript programs.\r"]}
+{"title": ["JSMock"], "link": ["http://jsmock.sourceforge.net/"], "desc": ["Fully featured Mock Object library for JavaScript that provides the necessary tools to do a effective interactive based testing. Provides expectation recording and matching, and has the ability to return, throw, and stub on object method calls.\r"]}
+{"title": ["JsMockito"], "link": ["http://jsmockito.org/"], "desc": ["Stub/mock framework heavily inspired by Mockito.\r"]}
+{"title": ["Karma"], "link": ["http://karma-runner.github.io/"], "desc": ["Brings a productive testing environment to developers.\r"]}
+{"title": ["LearnBoost/expect.js"], "link": ["https://github.com/LearnBoost/expect.js"], "desc": ["Minimalistic BDD style assertions for Node.js and the browser.\r"]}
+{"title": ["Marak/Faker.js"], "link": ["https://github.com/Marak/Faker.js"], "desc": ["Generates massive amounts of fake data in Node.js and the browser.\r"]}
+{"title": ["marmelab/gremlins.js"], "link": ["https://github.com/marmelab/gremlins.js"], "desc": ["Monkey testing library for web apps and Node.js.\r"]}
+{"title": ["node.js"], "link": ["http://nodejs.org/"], "desc": ["Event-driven I/O server-side JavaScript environment based on V8. Includes API documentation, change-log, examples and announcements. \r"]}
+{"title": ["npm"], "link": ["https://www.npmjs.com/"], "desc": ["Package manager. Installs, publishes and manages node programs.\r"]}
+{"title": ["Alfred.js"], "link": ["http://pgte.github.io/alfred/"], "desc": ["In-process key-value store. \r"]}
+{"title": ["BAM Weblog - node.js via CGI"], "link": ["http://brianmckenna.org/blog/nodejs_via_cgi"], "desc": ["A CGI adaptor for node.js that mimics the node.js http library. \r"]}
+{"title": ["Cluster"], "link": ["http://learnboost.github.io/cluster/"], "desc": ["Extensible multi-core server management for nodejs. \r"]}
+{"title": ["mmonteleone/DeLorean"], "link": ["https://github.com/mmonteleone/DeLorean"], "desc": ["Flux capacitor for accurately faking time-bound JavaScript unit testing, including timeouts, intervals, and dates (setTimeout, setInterval, clearTimeout, clearInterval, or Date).\r"]}
+{"title": ["Mocha"], "link": ["http://mochajs.org/"], "desc": ["A test framework running on node.js and the browser which runs tests serially, mapping uncaught exceptions to the correct test cases.\r"]}
+{"title": ["Nightwatch.js"], "link": ["http://nightwatchjs.org/"], "desc": ["Browser automated testing, JavaScript End-to-End tests in Node.js which run against a Selenium server.\r"]}
+{"title": ["occ/TraceKit"], "link": ["https://github.com/occ/TraceKit"], "desc": ["Attempts to create stack traces for unhandled JavaScript exceptions in all major browsers.\r"]}
+{"title": ["olivoil/NodeBDD"], "link": ["https://github.com/olivoil/NodeBDD"], "desc": ["Uses cucumber.js with zombie.js for integration testing, mocha with should.js for unit testing on the server side, and jasmine with sinon for unit testing on the client side.\r"]}
+{"title": ["philbooth/spooks.js"], "link": ["https://github.com/philbooth/spooks.js"], "desc": ["A small and simple library for creating unit test spies and mock objects in JavaScript.\r"]}
+{"title": ["Quail"], "link": ["http://quailjs.org/"], "desc": ["Accessibility testing in the browser and on the server. jQuery plugin for checking content against accessibility guidelines. It provides a flexible way to test for certain problems (images missing an alt text) and a collection of over 200 tests to get started.\r"]}
+{"title": ["Code 4 Node"], "link": ["http://code4node.com/"], "desc": ["Short yet complete node.js programming examples.\r"]}
+{"title": ["Common Node"], "link": ["http://olegp.github.io/common-node/"], "desc": ["Implements a number of CommonJS proposals on top of Node.js using node-fibers, emulating multi-threading within a single process. \r"]}
+{"title": ["Cradle"], "link": ["https://github.com/flatiron/cradle"], "desc": ["A high-level, caching, CouchDB client.\r"]}
+{"title": ["DcodeIO/test.js"], "link": ["https://github.com/dcodeIO/test.js"], "desc": ["Prints nothing else than the information actually needed and does nothing more than wrapping node's assert module.\r"]}
+{"title": ["Debuggable"], "link": ["http://debuggable.com/"], "desc": ["Offers node.js development, consulting and training. \r"]}
+{"title": ["docs.nodejitsu.com"], "link": ["http://docs.nodejitsu.com/"], "desc": ["Community documentation curated by Nodejitsu and friends. Articles range from basic to advanced, and provide relevant code samples and insights into the design and philosophy of node itself.\r"]}
+{"title": ["Express"], "link": ["http://expressjs.com/"], "desc": ["Sinatra inspired web development framework for node.js.\r"]}
+{"title": ["Felix's Node.js Guide"], "link": ["http://nodeguide.com/"], "desc": ["Guide to help people getting started in node.js. \r"]}
+{"title": ["rhinounit"], "link": ["http://code.google.com/p/rhinounit/"], "desc": ["Ant Based JavaScript Testing Framework.\r"]}
+{"title": ["rowanmanning/proclaim"], "link": ["https://github.com/rowanmanning/proclaim"], "desc": ["A simple assertion library for server and client side JavaScript.\r"]}
+{"title": ["Saga"], "link": ["http://timurstrekalov.github.io/saga/"], "desc": ["Coverage tool for JavaScript.\r"]}
+{"title": ["script-cover"], "link": ["http://code.google.com/p/script-cover/"], "desc": ["Chrome extension for JavaScript coverage analysis.\r"]}
+{"title": ["searls/jasmine-fixture"], "link": ["https://github.com/searls/jasmine-fixture"], "desc": ["A script for injecting fixtures into the DOM to be cleaned up after each spec.\r"]}
+{"title": ["Simple JavaScript Profiler"], "link": ["http://a-hw.narod.ru/programs/cnt/scripts/profiler/index.html"], "desc": ["Allows profile object-oriented scripts within HTML/XHTML pages. Works with DOM browsers like IE4+, Mozilla, Netscape 6+, Opera.\r"]}
+{"title": ["Sinon.JS"], "link": ["http://sinonjs.org/"], "desc": ["Standalone test spies, stubs and mocks for JavaScript. No dependencies, works with any unit testing framework.\r"]}
+{"title": ["Spectacular"], "link": ["http://abe33.github.io/spectacular/"], "desc": ["BDD framework for CoffeeScript and JavaScript whose attempt to bring the power of RSpec to JavaScript. Tries to favor the best practices used for writing better RSpec tests in its design.\r"]}
+{"title": ["teddyzeenny/ember-mocha-adapter"], "link": ["https://github.com/teddyzeenny/ember-mocha-adapter"], "desc": ["A mocha adapter for ember-testing.\r"]}
+{"title": ["Testling"], "link": ["https://ci.testling.com/"], "desc": ["Unit tests in all the browsers. Free for open source, pay for private repos.\r"]}
+{"title": ["Geddy"], "link": ["http://geddyjs.org/"], "desc": ["Web framework for node.js.\r"]}
+{"title": ["Google Groups: node.js"], "link": ["https://groups.google.com/forum/#!forum/nodejs"], "desc": ["Discussion forums and email-based groups.\r"]}
+{"title": ["Grasshopper"], "link": ["http://tuxychandru.github.io/grasshopper/"], "desc": ["Web application framework. \r"]}
+{"title": ["Gzippo"], "link": ["http://tomg.co/gzippo"], "desc": ["A gzip NodeJS middleware for Connect or Express using node-compress. Written in C++ to provide better performance.\r"]}
+{"title": ["hearsayit/HearsayRequireJSBundle"], "link": ["https://github.com/hearsayit/hearsayrequirejsbundle"], "desc": ["RequireJS integration for Symfony2.\r"]}
+{"title": ["How To Node"], "link": ["http://howtonode.org/"], "desc": ["Community supported blog, teaches about the various tasks and fundamental concepts to write effective code. \r"]}
+{"title": ["HTML5 Parser for node.js"], "link": ["http://dinhe.net/~aredridel/projects/js/html5/"], "desc": ["Features stream parsing.\r"]}
+{"title": ["trevmex/EnvJasmine"], "link": ["https://github.com/trevmex/envjasmine"], "desc": ["A headless, self contained tool for JavaScript testing.\r"]}
+{"title": ["Tutti"], "link": ["http://tutti.tobyho.com/"], "desc": ["Test JavaScript on different browsers simultaneously.\r"]}
+{"title": ["twada/power-assert"], "link": ["https://github.com/twada/power-assert"], "desc": ["Provides descriptive assertion messages through standard assert compatible interface.\r"]}
+{"title": ["visionmedia/should.js"], "link": ["https://github.com/visionmedia/should.js"], "desc": ["BDD style assertions for node.js. Test framework agnostic.\r"]}
+{"title": ["WebReflection/testardo"], "link": ["https://github.com/WebReflection/testardo"], "desc": ["A browser and OS agnostic web driver for mobile and desktop app.\r"]}
+{"title": ["WebReflection/wru"], "link": ["https://github.com/WebReflection/wru"], "desc": ["Essential general purpose test framework compatible with web environment, node.js, Rhino, and PhantomJS.\r"]}
+{"title": ["Yeti"], "link": ["http://yeti.cx/"], "desc": ["Automates tests written with QUnit, Jasmine, Mocha with Expect.js assertions, Dojo Objective Harness, or YUI Test.\r"]}
+{"title": ["YSlow Command Line"], "link": ["http://yslow.org/command-line-har/"], "desc": ["Runs on Node.JS and requires a HAR file as input source in order to analyse page performance.\r"]}
+{"title": ["YUI Test"], "link": ["https://github.com/yui/yuitest/"], "desc": ["Complete testing framework for JavaScript and Web applications.\r"]}
+{"title": ["Zombie.js"], "link": ["http://zombie.labnotes.org/"], "desc": ["Lightweight framework for testing client-side JavaScript code in a simulated environment.\r"]}
+{"title": ["Jade"], "link": ["http://jade-lang.com/"], "desc": ["Node template engine. \r"]}
+{"title": ["Joyent Node"], "link": ["http://www.joyent.com/technology/nodejs"], "desc": ["Cloud services including free node SmartMachines.\r"]}
+{"title": ["joyent/node"], "link": ["https://github.com/joyent/node"], "desc": ["node.js source code.\r"]}
+{"title": ["JSApp.US"], "link": ["http://jsapp.us/"], "desc": ["Hosting platform for node.js applications. It is setup to be a platform to coddle to quick, weekend hack like projects. \r"]}
+{"title": ["JXcore"], "link": ["http://jxcore.com/"], "desc": ["Multithreaded Node.JS distribution with additional features.\r"]}
+{"title": ["kyoto-client"], "link": ["http://kyoto-client.org/"], "desc": ["Module that acts as a client to the component Kyoto Tycoon of a Kyoto Cabinet server. \r"]}
+{"title": ["zserge/klud.js"], "link": ["https://bitbucket.org/zserge/klud.js/"], "desc": ["Microframework for testing. It provides a few rudimentary functions and is highly customizable.\r"]}
+{"title": ["lloyd/ass"], "link": ["https://github.com/lloyd/ass"], "desc": ["A node.js code coverage library which aggregates stats cross process.\r"]}
+{"title": ["Locomotive"], "link": ["http://locomotivejs.org/"], "desc": ["MVC web framework for Node.js.\r"]}
+{"title": ["Log.io"], "link": ["http://logio.org/"], "desc": ["Real-time log monitoring application. \r"]}
+{"title": ["Mongomate"], "link": ["http://mongomate.bensbit.co.uk/"], "desc": ["Node.js MongoDB Explorer.\r"]}
+{"title": ["Mongoose"], "link": ["http://mongoosejs.com/"], "desc": ["MongoDB object modeling tool designed to work in an asynchronous environment. \r"]}
+{"title": ["Nettuts+ :  Node.js : Step by Step"], "link": ["http://code.tutsplus.com/series/node-js-step-by-step--net-20500"], "desc": ["Set of articles and screencasts about writing a blogging application.\r"]}
+{"title": ["Node Casts"], "link": ["http://nodecasts.org/"], "desc": ["Episodes covering first steps and usage. \r"]}
+{"title": ["Node inspector"], "link": ["https://github.com/node-inspector/node-inspector"], "desc": ["Debugger based on Blink Developer Tools.\r"]}
+{"title": ["Node Nerd"], "link": ["http://nodenerd.tumblr.com/"], "desc": ["Links and step-by-step tutorials.   \r"]}
+{"title": ["Node Tuts"], "link": ["http://nodetuts.com/"], "desc": ["Free screencast tutorials. \r"]}
+{"title": ["Node Up"], "link": ["http://nodeup.com/"], "desc": ["Informs about Node.js podcasts. Subscriptions and downloads. \r"]}
+{"title": ["Node Weekly"], "link": ["http://nodeweekly.com/"], "desc": ["A free, once\u2013weekly e-mail round-up of Node.js news and articles.\r"]}
+{"title": ["Node. js Tools for Visual Studio"], "link": ["https://nodejstools.codeplex.com/"], "desc": ["Installation, screenshots, videos.documentation, source code.\r"]}
+{"title": ["Node.js Reactions"], "link": ["http://nodejsreactions.tumblr.com/"], "desc": ["Node.js humour.\r"]}
+{"title": ["NodeBots"], "link": ["http://nodebots.io/"], "desc": ["JS Robotics, robots controlled by node.js. Events, galleries, resources.\r"]}
+{"title": ["Nodeclipse"], "link": ["http://www.nodeclipse.org/"], "desc": ["Debugger, code completion, project structures and also external tools: PhantomJS, Nashorn, Vert.x for JavaScript. Enide.\r"]}
+{"title": ["Nodejitsu"], "link": ["https://www.nodejitsu.com/"], "desc": ["Offers cloud tools to run node.js applications.\r"]}
+{"title": ["NodeJS Guru"], "link": ["http://nodejs-development.com/"], "desc": ["Offers services to create different software and games.  \r"]}
+{"title": ["Nodemachine"], "link": ["http://tautologistics.github.io/nodemachine/"], "desc": ["Port of WebMachine for Node.js.\r"]}
+{"title": ["Nohm"], "link": ["http://maritz.github.io/nohm/"], "desc": ["Object-relational mapping for redis. \r"]}
+{"title": ["orlandov/node-sqlite"], "link": ["https://github.com/orlandov/node-sqlite"], "desc": ["Asynchronous, non-blocking SQLite3 bindings for Node.js.\r"]}
+{"title": ["persistence.js"], "link": ["https://github.com/zefhemel/persistencejs"], "desc": ["Object-database mapper. It has database-independent abstractions and can therefore be ported to new databases.\r"]}
+{"title": ["Pixel Ping \u2604"], "link": ["http://documentcloud.github.io/pixel-ping/"], "desc": ["Tool for tracking specific usage information for applications or HTML widgets that don't want to inject something heavy like Google Analytics.\r"]}
+{"title": ["Planet node.js"], "link": ["http://www.planetnodejs.com/"], "desc": ["A curated blog aggregation feed that includes a lot of prominent members of the Node community.\r"]}
+{"title": ["Sequelize"], "link": ["http://sequelizejs.com/"], "desc": ["Provides access to a MySQL database by mapping database entries to objects and vice-versa. \r"]}
+{"title": ["sgmonda/stdio"], "link": ["https://github.com/sgmonda/stdio"], "desc": ["Standard input/output management module for NodeJS.\r"]}
+{"title": ["Socket.IO"], "link": ["http://socket.io/"], "desc": ["Aims to make realtime apps possible in every browser and mobile device, blurring the differences between the different transport mechanisms. \r"]}
+{"title": ["Spludo"], "link": ["https://github.com/DracoBlue/spludo"], "desc": ["Evented, server side, prototype based, MVC web framework.\r"]}
+{"title": ["Stack Overflow - Node.js"], "link": ["http://stackoverflow.com/questions/tagged/node.js"], "desc": ["Collaboratively edited questions and answers for Node.js programmers. \r"]}
+{"title": ["Steve.org.uk - node-reverse-proxy"], "link": ["http://www.steve.org.uk/Software/node-reverse-proxy/"], "desc": ["Documentation and examples. \r"]}
+{"title": ["Substack"], "link": ["http://substack.net/"], "desc": ["Browserling and Node modules.\r"]}
+{"title": ["Unit Testing in node.js"], "link": ["http://caolanmcmahon.com/posts/unit_testing_in_node_js/"], "desc": ["Tips, tricks and examples on nodeunit and assert modules.\r"]}
+{"title": ["Vows"], "link": ["http://vowsjs.org/"], "desc": ["Asynchronous behaviour driven development for Node.\r"]}
+{"title": ["Wikipedia: Node.js"], "link": ["http://en.wikipedia.org/wiki/Nodejs"], "desc": ["Encyclopaedia entry about the software.\r"]}
+{"title": ["Youtube : Node.js: JavaScript on the Server"], "link": ["https://www.youtube.com/watch?v=F6k8lTrAE2g"], "desc": ["Google tech talk presented by Ryan Dahl creator of the node.js. Explains its design and how to get started with it.\r"]}
+{"title": ["YUI Theater"], "link": ["http://www.yuiblog.com/blog/2010/05/20/video-dahl/"], "desc": ["Ryan Dahl: \u201cIntroduction to NodeJS\u201d (58 min.)\r"]}
+{"title": ["Debuggable"], "link": ["http://feeds.feedburner.com/debuggable"], "desc": [" Offers node.js development, consulting and training.   \r"]}
+{"title": ["How To Node"], "link": ["http://howtonode.org/feed.xml"], "desc": ["Community supported blog, teaches about the various tasks and fundamental concepts to write effective code.   \r"]}
+{"title": ["Node Up"], "link": ["http://feeds.feedburner.com/NodeUp"], "desc": ["Informs about Node.js podcasts. Subscriptions and downloads.  \r"]}
+{"title": ["node.js"], "link": ["http://feeds.feedburner.com/nodejs/123123123"], "desc": ["Event-driven I/O server-side JavaScript environment based on V8. Includes API documentation, change-log, examples and announcements.  \r"]}
+{"title": ["Nodejitsu"], "link": ["http://blog.nodejitsu.com/rss/"], "desc": ["Offers cloud tools to run node.js applications.\r"]}
+{"title": ["Stack Overflow - Node.js"], "link": ["http://stackoverflow.com/feeds/tag/node.js"], "desc": ["Collaboratively edited questions and answers for Node.js programmers.   \r"]}

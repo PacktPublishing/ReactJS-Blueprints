@@ -33,6 +33,11 @@ This will start the server and automatically open a browser window for you, usua
 
 The search app
 
+## Software and Hardware Requirement:
+
+* Software: Chapter 1-10 - A code editor, for instance Sublime Text 3 or Webstorm.
+* System: Any modern era laptop or system.
+* OS: Windows 7-10/Mac OSX/Linux
 
 
 ## Related ReactJS books and videos:
